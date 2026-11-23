@@ -86,7 +86,7 @@ python -m streamlit run app.py
 
 ## Live Dashboard
 
-[Open Tennis Analytics Dashboard](https://tennis-analytics-project-awx4gizgjahmrkywhu5gz.streamlit.app/)
+[Open Tennis Analytics Dashboard](https://tennis-analytics-project-awx4gizgjahmrkvywhu5gz.streamlit.app/)
 
 ## Author
 **Chinki**
