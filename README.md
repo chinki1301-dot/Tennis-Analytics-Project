@@ -94,3 +94,12 @@ python -m streamlit run app.py
 Data Analytics Portfolio Project
 
 GitHub: [chinki1301-dot](https://github.com/chinki1301-dot)
+## SQL Analysis
+
+This project includes 20 SQL queries covering:
+
+- Competition Analysis
+- Venue Analysis
+- Doubles Rankings Analysis
+
+[View SQL Queries](tennis_analytics_queries.sql)
