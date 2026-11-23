@@ -1,0 +1,1001 @@
+tour,gender,year,week,rank,movement,points,competitions_played,player_id,player_name,country,country_code
+ATP,men,2026,47,1,0,9350,19,sr:competitor:57163,"Zverev, Alexander",Germany,DEU
+ATP,men,2026,47,2,0,7950,16,sr:competitor:225050,"Sinner, Jannik",Italy,ITA
+ATP,men,2026,47,3,0,6100,17,sr:competitor:407573,"Alcaraz, Carlos",Spain,ESP
+ATP,men,2026,47,4,0,5170,21,sr:competitor:808628,"Shelton, Ben",USA,USA
+ATP,men,2026,47,5,0,3820,24,sr:competitor:163504,"Medvedev, Daniil",Neutral,
+ATP,men,2026,47,6,0,3680,25,sr:competitor:399637,"Cobolli, Flavio",Italy,ITA
+ATP,men,2026,47,7,0,3625,20,sr:competitor:671637,"Fils, Arthur",France,FRA
+ATP,men,2026,47,8,0,3390,23,sr:competitor:101101,"Tiafoe, Frances",USA,USA
+ATP,men,2026,47,9,1,3300,23,sr:competitor:136042,"Fritz, Taylor",USA,USA
+ATP,men,2026,47,10,1,3234,21,sr:competitor:972327,"Jodar, Rafael",Spain,ESP
+ATP,men,2026,47,11,-2,3170,23,sr:competitor:214182,"de Minaur, Alex",Australia,AUS
+ATP,men,2026,47,12,0,2940,15,sr:competitor:14882,"Djokovic, Novak",Serbia,SRB
+ATP,men,2026,47,13,0,2925,23,sr:competitor:138546,"Paul, Tommy",USA,USA
+ATP,men,2026,47,14,1,2540,22,sr:competitor:339377,"Lehecka, Jiri",Czechia,CZE
+ATP,men,2026,47,15,1,2500,21,sr:competitor:763108,"Mensik, Jakub",Czechia,CZE
+ATP,men,2026,47,16,1,2500,23,sr:competitor:157456,"Davidovich Fokina, Alejandro",Spain,ESP
+ATP,men,2026,47,17,-3,2465,20,sr:competitor:195800,"Auger-Aliassime, Felix",Canada,CAN
+ATP,men,2026,47,18,0,2435,22,sr:competitor:119248,"Ruud, Casper",Norway,NOR
+ATP,men,2026,47,19,0,2360,23,sr:competitor:294300,"Nakashima, Brandon",USA,USA
+ATP,men,2026,47,20,0,2220,24,sr:competitor:255595,"Cerundolo, Francisco",Argentina,ARG
+ATP,men,2026,47,21,0,2160,28,sr:competitor:534043,"Darderi, Luciano",Italy,ITA
+ATP,men,2026,47,22,0,2145,21,sr:competitor:891669,"Tien, Learner",USA,USA
+ATP,men,2026,47,23,0,2085,24,sr:competitor:106755,"Rublev, Andrey",Neutral,
+ATP,men,2026,47,24,0,1980,24,sr:competitor:90080,"Khachanov, Karen",Neutral,
+ATP,men,2026,47,25,1,1885,24,sr:competitor:163480,"Bublik, Alexander",Kazakhstan,KAZ
+ATP,men,2026,47,26,1,1790,23,sr:competitor:158912,"Vacherot, Valentin",Monaco,MCO
+ATP,men,2026,47,27,-2,1785,19,sr:competitor:359602,"Musetti, Lorenzo",Italy,ITA
+ATP,men,2026,47,28,0,1640,20,sr:competitor:829282,"Blockx, Alexander",Belgium,BEL
+ATP,men,2026,47,29,0,1640,30,sr:competitor:169496,"Etcheverry, Tomas Martin",Argentina,ARG
+ATP,men,2026,47,30,0,1625,25,sr:competitor:158896,"Hurkacz, Hubert",Poland,POL
+ATP,men,2026,47,31,0,1595,31,sr:competitor:102151,"Tabilo, Alejandro",Chile,CHL
+ATP,men,2026,47,32,1,1507,21,sr:competitor:603098,"Fery, Arthur",Great Britain,GBR
+ATP,men,2026,47,33,-1,1495,25,sr:competitor:604344,"Buse, Ignacio",Peru,PER
+ATP,men,2026,47,34,0,1492,26,sr:competitor:658475,"Van Assche, Luca",France,FRA
+ATP,men,2026,47,35,0,1480,27,sr:competitor:871495,"Michelsen, Alex",USA,USA
+ATP,men,2026,47,36,0,1430,26,sr:competitor:122366,"Tsitsipas, Stefanos",Greece,GRC
+ATP,men,2026,47,37,1,1321,21,sr:competitor:505550,"Arnaldi, Matteo",Italy,ITA
+ATP,men,2026,47,38,1,1320,28,sr:competitor:185388,"Humbert, Ugo",France,FRA
+ATP,men,2026,47,39,-2,1296,25,sr:competitor:46391,"Struff, Jan-Lennard",Germany,DEU
+ATP,men,2026,47,40,0,1280,27,sr:competitor:102339,"Van de Zandschulp, Botic",Netherlands,NLD
+ATP,men,2026,47,41,0,1241,28,sr:competitor:125006,"Borges, Nuno",Portugal,PRT
+ATP,men,2026,47,42,0,1237,26,sr:competitor:673479,"Merida, Daniel",Spain,ESP
+ATP,men,2026,47,43,0,1223,22,sr:competitor:112783,"Berrettini, Matteo",Italy,ITA
+ATP,men,2026,47,44,0,1220,29,sr:competitor:170946,"Bergs, Zizou",Belgium,BEL
+ATP,men,2026,47,45,0,1214,28,sr:competitor:90798,"Halys, Quentin",France,FRA
+ATP,men,2026,47,46,0,1200,18,sr:competitor:863319,"Fonseca, Joao",Brazil,BRA
+ATP,men,2026,47,47,4,1197,23,sr:competitor:256875,"Tirante, Thiago Agustin",Argentina,ARG
+ATP,men,2026,47,48,-1,1146,19,sr:competitor:801374,"Gea, Arthur",France,FRA
+ATP,men,2026,47,49,-1,1095,29,sr:competitor:392066,"Navone, Mariano",Argentina,ARG
+ATP,men,2026,47,50,-1,1075,27,sr:competitor:122368,"Griekspoor, Tallon",Netherlands,NLD
+ATP,men,2026,47,51,-1,1055,23,sr:competitor:117916,"Shapovalov, Denis",Canada,CAN
+ATP,men,2026,47,52,1,1045,25,sr:competitor:95935,"Norrie, Cameron",Great Britain,GBR
+ATP,men,2026,47,53,-1,1040,31,sr:competitor:257721,"Baez, Sebastian",Argentina,ARG
+ATP,men,2026,47,54,0,1015,32,sr:competitor:258735,"Cerundolo, Juan Manuel",Argentina,ARG
+ATP,men,2026,47,55,0,968,23,sr:competitor:739641,"Collignon, Raphael",Belgium,BEL
+ATP,men,2026,47,56,0,959,26,sr:competitor:622876,"Vallejo, Adolfo Daniel",Paraguay,PRY
+ATP,men,2026,47,57,0,941,26,sr:competitor:682911,"Faria, Jaime",Portugal,PRT
+ATP,men,2026,47,58,0,920,26,sr:competitor:63606,"Rinderknech, Arthur",France,FRA
+ATP,men,2026,47,59,0,909,31,sr:competitor:299130,"Hijikata, Rinky",Australia,AUS
+ATP,men,2026,47,60,0,899,25,sr:competitor:300540,"Machac, Tomas",Czechia,CZE
+ATP,men,2026,47,61,0,898,35,sr:competitor:15894,"Mannarino, Adrian",France,FRA
+ATP,men,2026,47,62,0,879,32,sr:competitor:472975,"Bellucci, Mattia",Italy,ITA
+ATP,men,2026,47,63,0,875,25,sr:competitor:254383,"Marozsan, Fabian",Hungary,HUN
+ATP,men,2026,47,64,0,871,31,sr:competitor:130398,"Kecmanovic, Miomir",Serbia,SRB
+ATP,men,2026,47,65,0,845,27,sr:competitor:204117,"Ugo Carabelli, Camilo",Argentina,ARG
+ATP,men,2026,47,66,0,836,28,sr:competitor:371476,"Diaz Acosta, Facundo",Argentina,ARG
+ATP,men,2026,47,67,0,835,25,sr:competitor:47975,"Hanfmann, Yannick",Germany,DEU
+ATP,men,2026,47,68,0,831,22,sr:competitor:655845,"Quinn, Ethan",USA,USA
+ATP,men,2026,47,69,0,828,28,sr:competitor:210526,"Kopriva, Vit",Czechia,CZE
+ATP,men,2026,47,70,0,825,24,sr:competitor:126356,"Munar, Jaume",Spain,ESP
+ATP,men,2026,47,71,0,822,27,sr:competitor:903987,"Landaluce, Martin",Spain,ESP
+ATP,men,2026,47,72,1,822,31,sr:competitor:127208,"Altmaier, Daniel",Germany,DEU
+ATP,men,2026,47,73,-1,820,20,sr:competitor:145130,"Molcan, Alex",Slovakia,SVK
+ATP,men,2026,47,74,0,807,19,sr:competitor:124930,"Safiullin, Roman",Neutral,
+ATP,men,2026,47,75,0,787,28,sr:competitor:399633,"Atmane, Terence",France,FRA
+ATP,men,2026,47,76,1,773,20,sr:competitor:40800,"Carreno Busta, Pablo",Spain,ESP
+ATP,men,2026,47,77,-1,772,27,sr:competitor:39711,"Duckworth, James",Australia,AUS
+ATP,men,2026,47,78,0,759,19,sr:competitor:501672,"Svajda, Zachary",USA,USA
+ATP,men,2026,47,79,1,751,16,sr:competitor:601146,"Medjedovic, Hamad",Serbia,SRB
+ATP,men,2026,47,80,-1,735,24,sr:competitor:443702,"Burruchaga, Roman Andres",Argentina,ARG
+ATP,men,2026,47,81,0,732,25,sr:competitor:309954,"Droguet, Titouan",France,FRA
+ATP,men,2026,47,82,0,725,24,sr:competitor:108709,"Majchrzak, Kamil",Poland,POL
+ATP,men,2026,47,83,0,693,30,sr:competitor:188321,"Kovacevic, Aleksandar",USA,USA
+ATP,men,2026,47,84,0,692,27,sr:competitor:449767,"Wong, Coleman","Hong Kong, China",HKG
+ATP,men,2026,47,85,1,688,22,sr:competitor:26204,"Basilashvili, Nikoloz",Georgia,GEO
+ATP,men,2026,47,86,-1,680,21,sr:competitor:382058,"Jacquet, Kyrian",France,FRA
+ATP,men,2026,47,87,0,671,25,sr:competitor:407783,"Fearnley, Jacob",Great Britain,GBR
+ATP,men,2026,47,88,0,670,24,sr:competitor:38517,"Trungelliti, Marco",Argentina,ARG
+ATP,men,2026,47,89,0,663,18,sr:competitor:722429,"Prizmic, Dino",Croatia,HRV
+ATP,men,2026,47,90,0,661,29,sr:competitor:49172,"Dzumhur, Damir",Bosnia & Herzegovina,BIH
+ATP,men,2026,47,91,0,657,23,sr:competitor:94485,"Bonzi, Benjamin",France,FRA
+ATP,men,2026,47,92,3,647,27,sr:competitor:603106,"Samuel, Toby",Great Britain,GBR
+ATP,men,2026,47,93,-1,646,19,sr:competitor:337601,"Bu, Yunchaokete",China,CHN
+ATP,men,2026,47,94,-1,638,26,sr:competitor:195516,"Brooksby, Jenson",USA,USA
+ATP,men,2026,47,95,-1,638,25,sr:competitor:42379,"Giron, Marcos",USA,USA
+ATP,men,2026,47,96,3,620,23,sr:competitor:223714,"Piros, Zsombor",Hungary,HUN
+ATP,men,2026,47,97,-1,619,31,sr:competitor:227358,"Walton, Adam",Australia,AUS
+ATP,men,2026,47,98,2,616,20,sr:competitor:807574,"Zheng, Michael",USA,USA
+ATP,men,2026,47,99,-2,613,21,sr:competitor:15387,"Cilic, Marin",Croatia,HRV
+ATP,men,2026,47,100,7,609,27,sr:competitor:371436,"Shevchenko, Aleksandr",Kazakhstan,KAZ
+ATP,men,2026,47,101,-3,609,21,sr:competitor:161262,"Seyboth Wild, Thiago",Brazil,BRA
+ATP,men,2026,47,102,-1,590,16,sr:competitor:203681,"Korda, Sebastian",USA,USA
+ATP,men,2026,47,103,-1,588,23,sr:competitor:51345,"Damm Jr, Martin",USA,USA
+ATP,men,2026,47,104,-1,579,21,sr:competitor:157808,"Harris, Lloyd",South Africa,ZAF
+ATP,men,2026,47,105,-1,575,23,sr:competitor:310974,"De Jong, Jesper",Netherlands,NLD
+ATP,men,2026,47,106,-1,571,21,sr:competitor:200261,"Wu, Yibing",China,CHN
+ATP,men,2026,47,107,20,570,21,sr:competitor:276563,"Virtanen, Otto",Finland,FIN
+ATP,men,2026,47,108,-2,566,26,sr:competitor:57289,"Dellien, Hugo",Bolivia,BOL
+ATP,men,2026,47,109,-1,540,23,sr:competitor:175014,"Moutet, Corentin",France,FRA
+ATP,men,2026,47,110,5,539,24,sr:competitor:104847,"Sonego, Lorenzo",Italy,ITA
+ATP,men,2026,47,111,-2,530,24,sr:competitor:223874,"Gaston, Hugo",France,FRA
+ATP,men,2026,47,112,-2,527,26,sr:competitor:105607,"Choinski, Jan",Great Britain,GBR
+ATP,men,2026,47,113,-1,521,24,sr:competitor:355752,"Svrcina, Dalibor",Czechia,CZE
+ATP,men,2026,47,114,0,521,24,sr:competitor:138528,"Mejia, Nicolas",Colombia,COL
+ATP,men,2026,47,115,-4,521,28,sr:competitor:682913,"Rocha, Henrique",Portugal,PRT
+ATP,men,2026,47,116,13,512,29,sr:competitor:283759,"Chidekh, Clement",France,FRA
+ATP,men,2026,47,117,9,510,18,sr:competitor:872497,"Basavareddy, Nishesh",USA,USA
+ATP,men,2026,47,118,-1,505,18,sr:competitor:58221,"O'Connell, Christopher",Australia,AUS
+ATP,men,2026,47,119,-6,504,23,sr:competitor:515510,"Heide, Gustavo",Brazil,BRA
+ATP,men,2026,47,120,4,497,28,sr:competitor:77223,"Martinez, Pedro",Spain,ESP
+ATP,men,2026,47,121,-3,496,26,sr:competitor:212004,"Rodionov, Jurij",Austria,AUT
+ATP,men,2026,47,122,-6,493,26,sr:competitor:287541,"Sweeny, Dane",Australia,AUS
+ATP,men,2026,47,123,-4,493,32,sr:competitor:341220,"Royer, Valentin",France,FRA
+ATP,men,2026,47,124,-4,491,22,sr:competitor:83397,"Ofner, Sebastian",Austria,AUT
+ATP,men,2026,47,125,-3,487,27,sr:competitor:893391,"Sakamoto, Rei",Japan,JPN
+ATP,men,2026,47,126,-5,477,20,sr:competitor:284805,"Nava, Emilio",USA,USA
+ATP,men,2026,47,127,7,461,18,sr:competitor:124916,"Gojo, Borna",Croatia,HRV
+ATP,men,2026,47,128,-5,457,28,sr:competitor:247607,"Shimabukuro, Sho",Japan,JPN
+ATP,men,2026,47,129,-4,448,22,sr:competitor:128552,"Popyrin, Alexei",Australia,AUS
+ATP,men,2026,47,130,1,446,28,sr:competitor:422993,"Alcala Gurri, Max",Spain,ESP
+ATP,men,2026,47,131,-3,444,24,sr:competitor:503814,"Mochizuki, Shintaro",Japan,JPN
+ATP,men,2026,47,132,19,438,31,sr:competitor:199196,"Sanchez Izquierdo, Nikolas",Spain,ESP
+ATP,men,2026,47,133,-3,431,25,sr:competitor:515478,"Sakellaridis, Stefanos",Greece,GRC
+ATP,men,2026,47,134,-2,429,29,sr:competitor:1141275,"Kouame, Moise",France,FRA
+ATP,men,2026,47,135,0,422,18,sr:competitor:23581,"Dimitrov, Grigor",Bulgaria,BGR
+ATP,men,2026,47,136,2,421,27,sr:competitor:341192,"Comesana, Francisco",Argentina,ARG
+ATP,men,2026,47,137,-4,419,21,sr:competitor:97231,"Djere, Laslo",Serbia,SRB
+ATP,men,2026,47,138,-1,418,28,sr:competitor:124656,"Vukic, Aleksandar",Australia,AUS
+ATP,men,2026,47,139,0,415,28,sr:competitor:917921,"Cina, Federico",Italy,ITA
+ATP,men,2026,47,140,0,411,23,sr:competitor:450283,"Mpetshi Perricard, Giovanni",France,FRA
+ATP,men,2026,47,141,-5,406,23,sr:competitor:915153,"Dodig, Matej",Croatia,HRV
+ATP,men,2026,47,142,-1,404,21,sr:competitor:93597,"Pellegrino, Andrea",Italy,ITA
+ATP,men,2026,47,143,-1,403,19,sr:competitor:371448,"Llamas Ruiz, Pablo",Spain,ESP
+ATP,men,2026,47,144,-1,403,19,sr:competitor:539343,"Kym, Jerome",Switzerland,CHE
+ATP,men,2026,47,145,-1,401,29,sr:competitor:405977,"Schoolkate, Tristan",Australia,AUS
+ATP,men,2026,47,146,-1,400,17,sr:competitor:47770,"Fucsovics, Marton",Hungary,HUN
+ATP,men,2026,47,147,0,393,26,sr:competitor:686709,"Simakin, Ilia",Neutral,
+ATP,men,2026,47,148,-2,389,25,sr:competitor:604238,"Gaubas, Vilius",Lithuania,LTU
+ATP,men,2026,47,149,-1,386,25,sr:competitor:1084926,"Moller, Elmer",Denmark,DNK
+ATP,men,2026,47,150,0,386,19,sr:competitor:131442,"Mmoh, Michael",USA,USA
+ATP,men,2026,47,151,-2,380,29,sr:competitor:873695,"Blanch, Darwin",USA,USA
+ATP,men,2026,47,152,7,363,32,sr:competitor:787144,"Gentzsch, Tom",Germany,DEU
+ATP,men,2026,47,153,-1,362,27,sr:competitor:675173,"Neumayer, Lukas",Austria,AUT
+ATP,men,2026,47,154,-1,361,28,sr:competitor:88992,"Muller, Alexandre",France,FRA
+ATP,men,2026,47,155,-1,360,12,sr:competitor:352776,"Draper, Jack",Great Britain,GBR
+ATP,men,2026,47,156,-1,355,11,sr:competitor:97647,"Kwon, Soonwoo",Republic of Korea,KOR
+ATP,men,2026,47,157,-1,354,24,sr:competitor:75813,"Zhang, Zhizhen",China,CHN
+ATP,men,2026,47,158,-1,354,20,sr:competitor:353530,"Passaro, Francesco",Italy,ITA
+ATP,men,2026,47,159,-1,353,23,sr:competitor:39234,"Lajovic, Dusan",Serbia,SRB
+ATP,men,2026,47,160,0,349,28,sr:competitor:193824,"Guerrieri, Andrea",Italy,ITA
+ATP,men,2026,47,161,1,348,21,sr:competitor:904033,"Kumstat, Jan",Czechia,CZE
+ATP,men,2026,47,162,6,346,24,sr:competitor:359608,"Maestrelli, Francesco",Italy,ITA
+ATP,men,2026,47,163,1,343,19,sr:competitor:14548,"Wawrinka, Stan",Switzerland,CHE
+ATP,men,2026,47,164,-3,343,21,sr:competitor:801386,"Lajal, Mark",Estonia,EST
+ATP,men,2026,47,165,0,341,24,sr:competitor:263917,"Draxl, Liam",Canada,CAN
+ATP,men,2026,47,166,0,339,22,sr:competitor:418213,"Diallo, Gabriel",Canada,CAN
+ATP,men,2026,47,167,0,339,17,sr:competitor:218538,"Kotov, Pavel",Neutral,
+ATP,men,2026,47,168,4,338,17,sr:competitor:48632,"Daniel, Taro",Japan,JPN
+ATP,men,2026,47,169,0,334,30,sr:competitor:938667,"Schwaerzler, Joel",Austria,AUT
+ATP,men,2026,47,170,0,333,27,sr:competitor:289105,"Onclin, Gauthier",Belgium,BEL
+ATP,men,2026,47,171,56,327,25,sr:competitor:111837,"Harris, Billy",Great Britain,GBR
+ATP,men,2026,47,172,1,325,30,sr:competitor:44549,"Cecchinato, Marco",Italy,ITA
+ATP,men,2026,47,173,2,324,27,sr:competitor:1067542,"Balshaw, Felix",France,FRA
+ATP,men,2026,47,174,2,322,30,sr:competitor:17080,"Tomic, Bernard",Australia,AUS
+ATP,men,2026,47,175,2,322,26,sr:competitor:36300,"Travaglia, Stefano",Italy,ITA
+ATP,men,2026,47,176,2,321,30,sr:competitor:943619,"Budkov Kjaer, Nicolai",Norway,NOR
+ATP,men,2026,47,177,13,321,27,sr:competitor:240264,"Reis Da Silva, Joao Lucas",Brazil,BRA
+ATP,men,2026,47,178,1,320,19,sr:competitor:745797,"Brunold, Mika",Switzerland,CHE
+ATP,men,2026,47,179,1,319,24,sr:competitor:847592,"Midon, Lautaro",Argentina,ARG
+ATP,men,2026,47,180,1,317,13,sr:competitor:268553,"Rodesch, Chris",Luxembourg,LUX
+ATP,men,2026,47,181,1,314,25,sr:competitor:834054,"Prado Angelo, Juan Carlos",Bolivia,BOL
+ATP,men,2026,47,182,1,308,29,sr:competitor:341188,"Justo, Guido Ivan",Argentina,ARG
+ATP,men,2026,47,183,3,307,28,sr:competitor:225052,"Tabur, Clement",France,FRA
+ATP,men,2026,47,184,0,307,28,sr:competitor:506300,"Bueno, Gonzalo",Peru,PER
+ATP,men,2026,47,185,0,307,32,sr:competitor:1034817,"Dedura, Diego",Germany,DEU
+ATP,men,2026,47,186,1,304,12,sr:competitor:780790,"Dietrich, Dylan",Switzerland,CHE
+ATP,men,2026,47,187,1,302,18,sr:competitor:603104,"Pinnington Jones, Jack",Great Britain,GBR
+ATP,men,2026,47,188,1,301,33,sr:competitor:284835,"Smith, Keegan",USA,USA
+ATP,men,2026,47,189,5,300,23,sr:competitor:457059,"Montes-de la Torre, Inaki",Spain,ESP
+ATP,men,2026,47,190,2,297,28,sr:competitor:187689,"Galarneau, Alexis",Canada,CAN
+ATP,men,2026,47,191,11,290,28,sr:competitor:679701,"Gueymard Wayenburg, Sascha",France,FRA
+ATP,men,2026,47,192,3,290,29,sr:competitor:57155,"Jorda Sanchis, David",Spain,ESP
+ATP,men,2026,47,193,4,290,29,sr:competitor:276685,"Skatov, Timofey",Kazakhstan,KAZ
+ATP,men,2026,47,194,4,288,24,sr:competitor:266711,"Pavlovic, Luka",France,FRA
+ATP,men,2026,47,195,43,288,20,sr:competitor:780796,"Feldbausch, Kilian",Switzerland,CHE
+ATP,men,2026,47,196,0,288,27,sr:competitor:312088,"Ilagan, Andre",USA,USA
+ATP,men,2026,47,197,3,288,28,sr:competitor:72248,"Varillas, Juan Pablo",Peru,PER
+ATP,men,2026,47,198,67,286,30,sr:competitor:226124,"Holmgren, August",Denmark,DNK
+ATP,men,2026,47,199,-6,285,27,sr:competitor:38180,"Mena, Facundo",Argentina,ARG
+ATP,men,2026,47,200,8,284,22,sr:competitor:284801,"Boyer, Tristan",USA,USA
+ATP,men,2026,47,201,0,280,17,sr:competitor:234048,"Wolf, Jeffrey John",USA,USA
+ATP,men,2026,47,202,1,279,30,sr:competitor:145122,"Martineau, Matteo",France,FRA
+ATP,men,2026,47,203,-12,278,29,sr:competitor:132834,"Barrios Vera, Marcelo Tomas",Chile,CHL
+ATP,men,2026,47,204,2,278,28,sr:competitor:809322,"Shick, Braden",USA,USA
+ATP,men,2026,47,205,-42,278,30,sr:competitor:233184,"Glinka, Daniil",Estonia,EST
+ATP,men,2026,47,206,23,274,30,sr:competitor:269571,"Moeller, Marvin",Germany,DEU
+ATP,men,2026,47,207,2,272,22,sr:competitor:146040,"Gomez, Federico Agustin",Argentina,ARG
+ATP,men,2026,47,208,2,269,17,sr:competitor:321667,"Mayot, Harold",France,FRA
+ATP,men,2026,47,209,-38,269,18,sr:competitor:58369,"Bolt, Alex",Australia,AUS
+ATP,men,2026,47,210,3,269,26,sr:competitor:809320,"Butvilas, Edas",Lithuania,LTU
+ATP,men,2026,47,211,0,269,26,sr:competitor:168420,"Andrade, Andres",Ecuador,ECU
+ATP,men,2026,47,212,0,268,25,sr:competitor:251029,"Martin Tiffon, Pol",Spain,ESP
+ATP,men,2026,47,213,-9,267,33,sr:competitor:132558,"Kolar, Zdenek",Czechia,CZE
+ATP,men,2026,47,214,19,266,27,sr:competitor:251091,"Noguchi, Rio",Japan,JPN
+ATP,men,2026,47,215,-1,264,25,sr:competitor:927343,"Cadenasso, Gianluca",Italy,ITA
+ATP,men,2026,47,216,15,264,25,sr:competitor:871807,"Searle, Henry",Great Britain,GBR
+ATP,men,2026,47,217,-1,262,25,sr:competitor:785974,"La Serna, Juan Manuel",Argentina,ARG
+ATP,men,2026,47,218,-1,262,32,sr:competitor:501414,"Gill, Felix",Great Britain,GBR
+ATP,men,2026,47,219,-20,261,23,sr:competitor:373348,"Pucinelli de Almeida, Matheus",Brazil,BRA
+ATP,men,2026,47,220,-2,261,28,sr:competitor:414501,"Houkes, Max",Netherlands,NLD
+ATP,men,2026,47,221,-2,259,25,sr:competitor:54955,"Coppejans, Kimmer",Belgium,BEL
+ATP,men,2026,47,222,36,259,26,sr:competitor:305558,"Roncadelli, Franco",Uruguay,URY
+ATP,men,2026,47,223,-3,256,24,sr:competitor:798876,"Smith, Colton",USA,USA
+ATP,men,2026,47,224,-2,256,31,sr:competitor:123694,"Brancaccio, Raul",Italy,ITA
+ATP,men,2026,47,225,-4,255,31,sr:competitor:145108,"Bertola, Remy",Switzerland,CHE
+ATP,men,2026,47,226,-3,254,14,sr:competitor:89320,"Ivashka, Ilya",Neutral,
+ATP,men,2026,47,227,-3,254,42,sr:competitor:196440,"Dellavedova, Matthew",Australia,AUS
+ATP,men,2026,47,228,-3,253,23,sr:competitor:47603,"Monteiro, Thiago",Brazil,BRA
+ATP,men,2026,47,229,-3,253,28,sr:competitor:948185,"Mrva, Maxim",Czechia,CZE
+ATP,men,2026,47,230,-2,250,23,sr:competitor:620338,"Sharipov, Marat",Neutral,
+ATP,men,2026,47,231,1,247,30,sr:competitor:517028,"Barrena, Alex",Argentina,ARG
+ATP,men,2026,47,232,49,246,30,sr:competitor:983475,"Ribecai, Michele",Italy,ITA
+ATP,men,2026,47,233,16,245,32,sr:competitor:299818,"Henning, Philip",South Africa,ZAF
+ATP,men,2026,47,234,0,244,30,sr:competitor:530317,"Rincon, Daniel",Spain,ESP
+ATP,men,2026,47,235,17,242,14,sr:competitor:721347,"Shang, Juncheng",China,CHN
+ATP,men,2026,47,236,-1,242,21,sr:competitor:540271,"Mayo, Aidan",USA,USA
+ATP,men,2026,47,237,4,241,28,sr:competitor:508498,"Rehberg, Max Hans",Germany,DEU
+ATP,men,2026,47,238,4,241,31,sr:competitor:325737,"Moro Canas, Alejandro",Spain,ESP
+ATP,men,2026,47,239,-3,240,28,sr:competitor:381022,"Wendelken, Harry",Great Britain,GBR
+ATP,men,2026,47,240,4,240,28,sr:competitor:169486,"Olivieri, Genaro Alberto",Argentina,ARG
+ATP,men,2026,47,241,-34,236,29,sr:competitor:685469,"Kasnikowski, Maks",Poland,POL
+ATP,men,2026,47,242,-3,233,18,sr:competitor:16720,"Bautista Agut, Roberto",Spain,ESP
+ATP,men,2026,47,243,-3,233,13,sr:competitor:234046,"Kypson, Patrick",USA,USA
+ATP,men,2026,47,244,-1,232,31,sr:competitor:116616,"Clarke, Jay",Great Britain,GBR
+ATP,men,2026,47,245,-15,228,20,sr:competitor:226036,"Tseng, Chun Hsin",Chinese Taipei,TPE
+ATP,men,2026,47,246,-1,227,12,sr:competitor:603096,"Riedi, Leandro",Switzerland,CHE
+ATP,men,2026,47,247,8,226,11,sr:competitor:722431,"Mikrut, Luka",Croatia,HRV
+ATP,men,2026,47,248,-1,225,23,sr:competitor:100069,"Sachko, Vitaliy",Ukraine,UKR
+ATP,men,2026,47,249,-75,224,11,sr:competitor:64570,"Garin, Cristian",Chile,CHL
+ATP,men,2026,47,250,6,224,18,sr:competitor:839014,"Friend, Jay",Japan,JPN
+ATP,men,2026,47,251,-3,223,7,sr:competitor:448357,"Spizzirri, Eliot",USA,USA
+ATP,men,2026,47,252,8,223,24,sr:competitor:809324,"Pacheco Mendez, Rodrigo",Mexico,MEX
+ATP,men,2026,47,253,11,223,25,sr:competitor:131566,"Nagal, Sumit",India,IND
+ATP,men,2026,47,254,-4,222,16,sr:competitor:44553,"Herbert, Pierre-Hugues",France,FRA
+ATP,men,2026,47,255,50,221,25,sr:competitor:428657,"Shelbayh, Abdullah",Jordan,JOR
+ATP,men,2026,47,256,-5,221,29,sr:competitor:853643,"Romano, Filippo",Italy,ITA
+ATP,men,2026,47,257,-4,220,12,sr:competitor:812472,"Tarvet, Oliver",Great Britain,GBR
+ATP,men,2026,47,258,5,220,16,sr:competitor:450477,"Nardi, Luca",Italy,ITA
+ATP,men,2026,47,259,-44,219,29,sr:competitor:47764,"Broady, Liam",Great Britain,GBR
+ATP,men,2026,47,260,9,218,24,sr:competitor:268441,"Gadamauri, Buvaysar",Belgium,BEL
+ATP,men,2026,47,261,-4,218,26,sr:competitor:305776,"Soto, Matias",Chile,CHL
+ATP,men,2026,47,262,-3,217,19,sr:competitor:496346,"Stricker, Dominic",Switzerland,CHE
+ATP,men,2026,47,263,10,217,25,sr:competitor:205767,"Cretu, Cezar (2001)",Romania,ROU
+ATP,men,2026,47,264,6,216,26,sr:competitor:262679,"Gray, Alastair",Great Britain,GBR
+ATP,men,2026,47,265,-3,215,18,sr:competitor:63438,"McDonald, Mackenzie",USA,USA
+ATP,men,2026,47,266,1,214,29,sr:competitor:580167,"Nedic, Andrej",Bosnia & Herzegovina,BIH
+ATP,men,2026,47,267,-1,213,20,sr:competitor:51141,"Carballes Baena, Roberto",Spain,ESP
+ATP,men,2026,47,268,16,213,27,sr:competitor:81271,"Hemery, Calvin",France,FRA
+ATP,men,2026,47,269,43,211,25,sr:competitor:220588,"Hsu, Yu Hsiou",Chinese Taipei,TPE
+ATP,men,2026,47,270,-2,211,34,sr:competitor:498580,"Aboian, Valerio",Argentina,ARG
+ATP,men,2026,47,271,-66,210,25,sr:competitor:77007,"Kozlov, Stefan",USA,USA
+ATP,men,2026,47,272,-1,207,33,sr:competitor:768772,"Bar Biryukov, Petr",Neutral,
+ATP,men,2026,47,273,6,202,24,sr:competitor:947875,"Zhou, Yi",China,CHN
+ATP,men,2026,47,274,-28,201,29,sr:competitor:915433,"Matsuoka, Hayato",Japan,JPN
+ATP,men,2026,47,275,-1,201,35,sr:competitor:256393,"Kravchenko, Georgii",Ukraine,UKR
+ATP,men,2026,47,276,-1,200,10,sr:competitor:130400,"Opelka, Reilly",USA,USA
+ATP,men,2026,47,277,-5,200,19,sr:competitor:404791,"Basing, Max",Great Britain,GBR
+ATP,men,2026,47,278,2,199,8,sr:competitor:56017,"Ritschard, Alexander",Switzerland,CHE
+ATP,men,2026,47,279,-3,199,26,sr:competitor:686911,"Poljicak, Mili",Croatia,HRV
+ATP,men,2026,47,280,-2,198,23,sr:competitor:441496,"Papoe, Radu Mihai",Romania,ROU
+ATP,men,2026,47,281,-20,197,26,sr:competitor:216502,"Broom, Charles",Great Britain,GBR
+ATP,men,2026,47,282,5,197,28,sr:competitor:675175,"McCabe, James",Australia,AUS
+ATP,men,2026,47,283,-1,196,28,sr:competitor:645452,"Nesterov, Pyotr",Bulgaria,BGR
+ATP,men,2026,47,284,-7,196,31,sr:competitor:763106,"Barton, Hynek",Czechia,CZE
+ATP,men,2026,47,285,25,194,28,sr:competitor:660427,"Milavsky, Daniel",USA,USA
+ATP,men,2026,47,286,3,194,30,sr:competitor:48626,"Giustino, Lorenzo",Italy,ITA
+ATP,men,2026,47,287,-4,193,36,sr:competitor:51100,"Roca Batalla, Oriol",Spain,ESP
+ATP,men,2026,47,288,15,191,26,sr:competitor:387066,"Forejtek, Jonas",Czechia,CZE
+ATP,men,2026,47,289,8,191,31,sr:competitor:163438,"Sun, Fajing",China,CHN
+ATP,men,2026,47,290,0,188,19,sr:competitor:42152,"Napolitano, Stefano",Italy,ITA
+ATP,men,2026,47,291,0,188,34,sr:competitor:279295,"Jianu, Filip Cristian",Romania,ROU
+ATP,men,2026,47,292,-7,187,20,sr:competitor:82157,"Marcondes, Igor",Brazil,BRA
+ATP,men,2026,47,293,-1,187,31,sr:competitor:269523,"Bax, Florent",France,FRA
+ATP,men,2026,47,294,7,187,34,sr:competitor:79467,"Jasika, Omar",Australia,AUS
+ATP,men,2026,47,295,-2,186,33,sr:competitor:983487,"Faurel, Thomas",France,FRA
+ATP,men,2026,47,296,-8,186,19,sr:competitor:952887,"Aguilar Cardozo, Joaquin",Uruguay,URY
+ATP,men,2026,47,297,-2,185,20,sr:competitor:186885,"Hardt, Nick",Dominican Republic,DOM
+ATP,men,2026,47,298,-2,185,24,sr:competitor:307112,"Erel, Yanki",Turkiye,TUR
+ATP,men,2026,47,299,7,182,28,sr:competitor:913185,"Schoenhaus, Max",Germany,DEU
+ATP,men,2026,47,300,2,181,14,sr:competitor:402317,"Dostanic, Stefan",USA,USA
+ATP,men,2026,47,301,-2,180,34,sr:competitor:441534,"Krumich, Martin",Czechia,CZE
+ATP,men,2026,47,302,-8,179,18,sr:competitor:930125,"Rottgering, Mees",Netherlands,NLD
+ATP,men,2026,47,303,1,178,30,sr:competitor:106153,"Dalla Valle, Enrico",Italy,ITA
+ATP,men,2026,47,304,3,176,32,sr:competitor:210502,"Kopp, Sandro",Austria,AUT
+ATP,men,2026,47,305,-51,175,23,sr:competitor:83661,"Ymer, Elias",Sweden,SWE
+ATP,men,2026,47,306,3,175,31,sr:competitor:779248,"Pieri, Samuele",Italy,ITA
+ATP,men,2026,47,307,4,173,15,sr:competitor:739649,"Den Ouden, Guy",Netherlands,NLD
+ATP,men,2026,47,308,5,173,26,sr:competitor:229022,"Squire, Henri",Germany,DEU
+ATP,men,2026,47,309,7,173,29,sr:competitor:135778,"Poullain, Lucas",France,FRA
+ATP,men,2026,47,310,11,172,26,sr:competitor:588075,"Blanch, Dali",USA,USA
+ATP,men,2026,47,311,12,172,28,sr:competitor:861461,"Caniato, Carlo Alberto",Italy,ITA
+ATP,men,2026,47,312,-12,171,13,sr:competitor:145112,"Huesler, Marc-Andrea",Switzerland,CHE
+ATP,men,2026,47,313,1,171,23,sr:competitor:452767,"Cuenin, Sean",France,FRA
+ATP,men,2026,47,314,1,171,26,sr:competitor:345576,"Michalski, Daniel",Poland,POL
+ATP,men,2026,47,315,91,170,16,sr:competitor:429603,"Rune, Holger",Denmark,DNK
+ATP,men,2026,47,316,2,170,25,sr:competitor:219534,"Broska, Florian",Germany,DEU
+ATP,men,2026,47,317,2,170,29,sr:competitor:211992,"Alkaya, Mert",Turkiye,TUR
+ATP,men,2026,47,318,2,169,26,sr:competitor:252239,"Forti, Francesco",Italy,ITA
+ATP,men,2026,47,319,3,169,28,sr:competitor:951223,"Sanchez Quilez, Alejo",Spain,ESP
+ATP,men,2026,47,320,-22,169,29,sr:competitor:434058,"Boscardin Dias, Pedro",Brazil,BRA
+ATP,men,2026,47,321,6,168,23,sr:competitor:450343,"Hussey, Giles",Great Britain,GBR
+ATP,men,2026,47,322,3,168,30,sr:competitor:574371,"Torres, Juan Bautista",Argentina,ARG
+ATP,men,2026,47,323,3,167,24,sr:competitor:1055851,"Hewitt, Cruz",Australia,AUS
+ATP,men,2026,47,324,-16,165,22,sr:competitor:637610,"Overbeck, Carl Emil",Denmark,DNK
+ATP,men,2026,47,325,9,164,23,sr:competitor:213170,"Blanchet, Ugo",France,FRA
+ATP,men,2026,47,326,-89,163,13,sr:competitor:157302,"Watanuki, Yosuke",Japan,JPN
+ATP,men,2026,47,327,3,163,23,sr:competitor:312438,"Matusevich, Anton",Great Britain,GBR
+ATP,men,2026,47,328,3,163,33,sr:competitor:85877,"Villanueva, Gonzalo",Argentina,ARG
+ATP,men,2026,47,329,3,162,24,sr:competitor:505466,"Sekulic, Philip",Australia,AUS
+ATP,men,2026,47,330,19,161,33,sr:competitor:83263,"Santillan, Akira",Japan,JPN
+ATP,men,2026,47,331,-7,160,27,sr:competitor:873679,"Bondioli, Federico",Italy,ITA
+ATP,men,2026,47,332,1,160,30,sr:competitor:208165,"Fomin, Sergey",Uzbekistan,UZB
+ATP,men,2026,47,333,2,160,31,sr:competitor:1118225,"Zarate, Carlos Maria",Argentina,ARG
+ATP,men,2026,47,334,7,159,16,sr:competitor:588073,"Legout, Timo",France,FRA
+ATP,men,2026,47,335,7,159,22,sr:competitor:603820,"Coulibaly, Eliakim",Cote d’Ivoire,CIV
+ATP,men,2026,47,336,1,159,27,sr:competitor:652290,"Ambrogi, Luciano Emanuel",Argentina,ARG
+ATP,men,2026,47,337,3,158,21,sr:competitor:66002,"Lokoli, Laurent",France,FRA
+ATP,men,2026,47,338,-9,158,25,sr:competitor:66484,"Ferreira Silva, Frederico",Portugal,PRT
+ATP,men,2026,47,339,-3,157,25,sr:competitor:66086,"Kicker, Nicolas",Argentina,ARG
+ATP,men,2026,47,340,-23,156,40,sr:competitor:880089,"Pereira, Tiago",Portugal,PRT
+ATP,men,2026,47,341,-2,152,16,sr:competitor:240876,"Crawford, Oliver",Great Britain,GBR
+ATP,men,2026,47,342,1,152,22,sr:competitor:938703,"Schoen, Patrick",Switzerland,CHE
+ATP,men,2026,47,343,2,152,24,sr:competitor:92074,"Galan, Daniel Elahi",Colombia,COL
+ATP,men,2026,47,344,3,151,12,sr:competitor:477182,"Kachmazov, Alibek",Neutral,
+ATP,men,2026,47,345,3,151,19,sr:competitor:121668,"Meligeni Alves, Felipe",Brazil,BRA
+ATP,men,2026,47,346,4,150,21,sr:competitor:720613,"ToPo, Marko",Germany,DEU
+ATP,men,2026,47,347,4,150,23,sr:competitor:53483,"Masur, Daniel",Germany,DEU
+ATP,men,2026,47,348,-10,150,32,sr:competitor:79223,"Delaney, Jake",Australia,AUS
+ATP,men,2026,47,349,3,149,22,sr:competitor:24415,"Martin, Andrej",Slovakia,SVK
+ATP,men,2026,47,350,6,148,26,sr:competitor:103625,"Geerts, Michael",Belgium,BEL
+ATP,men,2026,47,351,9,148,27,sr:competitor:153826,"Echargui, Moez",Tunisia,TUN
+ATP,men,2026,47,352,1,148,27,sr:competitor:728235,"Donald, Matthew William",Czechia,CZE
+ATP,men,2026,47,353,1,148,30,sr:competitor:369630,"Strombachs, Robert",Latvia,LVA
+ATP,men,2026,47,354,1,148,30,sr:competitor:783794,"Singh, Karan (IND)",India,IND
+ATP,men,2026,47,355,-69,147,23,sr:competitor:652092,"Cassone, Murphy",USA,USA
+ATP,men,2026,47,356,2,146,24,sr:competitor:113979,"Ficovich, Juan Pablo",Argentina,ARG
+ATP,men,2026,47,357,2,146,33,sr:competitor:844730,"Estevez, Juan",Argentina,ARG
+ATP,men,2026,47,358,-12,145,32,sr:competitor:197674,"Damas, Miguel",Spain,ESP
+ATP,men,2026,47,359,-2,144,26,sr:competitor:210592,"Ribeiro, Eduardo",Brazil,BRA
+ATP,men,2026,47,360,9,144,29,sr:competitor:904027,"Giunta, Massimo",Italy,ITA
+ATP,men,2026,47,361,42,143,17,sr:competitor:877067,"Gorzny, Sebastian",USA,USA
+ATP,men,2026,47,362,-1,143,21,sr:competitor:762700,"Demin, Yaroslav",Neutral,
+ATP,men,2026,47,363,-1,143,23,sr:competitor:250231,"Shimizu, Yuta",Japan,JPN
+ATP,men,2026,47,364,7,143,24,sr:competitor:605854,"Maxted, Lui",Great Britain,GBR
+ATP,men,2026,47,365,-37,143,29,sr:competitor:205773,"Sanchez Jover, Carlos",Spain,ESP
+ATP,men,2026,47,366,-3,142,25,sr:competitor:840614,"Nagel, Arthur",France,FRA
+ATP,men,2026,47,367,13,140,20,sr:competitor:172482,"Dougaz, Aziz",Tunisia,TUN
+ATP,men,2026,47,368,-3,140,25,sr:competitor:242548,"Jubb, Paul",Great Britain,GBR
+ATP,men,2026,47,369,-3,139,28,sr:competitor:51009,"Kuzmanov, Dimitar",Bulgaria,BGR
+ATP,men,2026,47,370,5,139,29,sr:competitor:280449,"Samrej, Kasidit",Thailand,THA
+ATP,men,2026,47,371,21,138,23,sr:competitor:1021133,"Milic, Ognjen",Serbia,SRB
+ATP,men,2026,47,372,-4,138,24,sr:competitor:215492,"Cui, Jie",China,CHN
+ATP,men,2026,47,373,-9,138,26,sr:competitor:603420,"Martin, Andres",USA,USA
+ATP,men,2026,47,374,-4,138,40,sr:competitor:190062,"Chepelev, Andrey",Neutral,
+ATP,men,2026,47,375,-31,136,16,sr:competitor:16683,"Kukushkin, Mikhail",Kazakhstan,KAZ
+ATP,men,2026,47,376,-3,136,25,sr:competitor:272281,"Compagnucci, Tommaso",Italy,ITA
+ATP,men,2026,47,377,-3,136,27,sr:competitor:240916,"Erhard, Mathys",France,FRA
+ATP,men,2026,47,378,-11,136,31,sr:competitor:65606,"Agamenone, Franco",Italy,ITA
+ATP,men,2026,47,379,-2,133,19,sr:competitor:50139,"Gombos, Norbert",Slovakia,SVK
+ATP,men,2026,47,380,-2,133,26,sr:competitor:431697,"Torres, Tiago",Portugal,PRT
+ATP,men,2026,47,381,8,133,31,sr:competitor:983483,"Petkovic, Mika",Germany,DEU
+ATP,men,2026,47,382,-3,132,16,sr:competitor:1181751,"Vasami, Jacopo",Italy,ITA
+ATP,men,2026,47,383,-2,131,22,sr:competitor:997473,"Bernet, Henry",Switzerland,CHE
+ATP,men,2026,47,384,-2,131,29,sr:competitor:303808,"Nijboer, Ryan",Netherlands,NLD
+ATP,men,2026,47,385,-2,130,26,sr:competitor:908687,"Martin Manzano, Juan Cruz",Italy,ITA
+ATP,men,2026,47,386,-2,130,28,sr:competitor:530313,"Perot, Raphael",France,FRA
+ATP,men,2026,47,387,-2,129,20,sr:competitor:1140995,"Kennedy, Jack",USA,USA
+ATP,men,2026,47,388,-1,129,22,sr:competitor:727361,"Sorger, Sebastian",Austria,AUT
+ATP,men,2026,47,389,6,129,25,sr:competitor:516848,"Bicknell, Blaise",Jamaica,JAM
+ATP,men,2026,47,390,12,129,31,sr:competitor:194300,"Singh, Digvijay Pratap",India,IND
+ATP,men,2026,47,391,-3,128,28,sr:competitor:900139,"Dhamne, Manas",India,IND
+ATP,men,2026,47,392,-6,127,19,sr:competitor:202681,"Marrero Curbelo, Ivan",Spain,ESP
+ATP,men,2026,47,393,-3,127,23,sr:competitor:1218077,"Lagutin, Pavel",Neutral,
+ATP,men,2026,47,394,-3,127,26,sr:competitor:791648,"Piraino, Gabriele",Italy,ITA
+ATP,men,2026,47,395,27,127,29,sr:competitor:951299,"Tobon, Miguel",Colombia,COL
+ATP,men,2026,47,396,132,127,32,sr:competitor:103313,"Langmo, Christian",USA,USA
+ATP,men,2026,47,397,0,126,21,sr:competitor:660423,"Baris, Ozan",USA,USA
+ATP,men,2026,47,398,7,126,37,sr:competitor:679699,"Bertrand, Robin",France,FRA
+ATP,men,2026,47,399,-5,125,23,sr:competitor:739639,"Jong, Sander",Netherlands,NLD
+ATP,men,2026,47,400,-4,125,26,sr:competitor:508496,"Wiskandt, Max",Germany,DEU
+ATP,men,2026,47,401,-29,124,28,sr:competitor:866247,"Ratti, Lucio",Argentina,ARG
+ATP,men,2026,47,402,-1,124,30,sr:competitor:927487,"Loge, Jack",Belgium,BEL
+ATP,men,2026,47,403,-5,123,27,sr:competitor:435758,"Vanshelboim, Eric",Ukraine,UKR
+ATP,men,2026,47,404,-5,123,28,sr:competitor:978589,"Almazan Valiente, Izan",Spain,ESP
+ATP,men,2026,47,405,3,122,27,sr:competitor:226132,"Ajdukovic, Duje",Croatia,HRV
+ATP,men,2026,47,406,-2,121,20,sr:competitor:671229,"Winter, Edward",Australia,AUS
+ATP,men,2026,47,407,0,121,23,sr:competitor:863263,"Gulin, Svyatoslav",Neutral,
+ATP,men,2026,47,408,-15,120,24,sr:competitor:119140,"Ellis, Blake",Australia,AUS
+ATP,men,2026,47,409,2,119,23,sr:competitor:369572,"Boulais, Justin",Canada,CAN
+ATP,men,2026,47,410,3,118,10,sr:competitor:71280,"Kokkinakis, Thanasi",Australia,AUS
+ATP,men,2026,47,411,3,118,21,sr:competitor:149100,"Sultanov, Khumoyun",Uzbekistan,UZB
+ATP,men,2026,47,412,15,118,24,sr:competitor:108563,"Perez Contri, Sergi",Spain,ESP
+ATP,men,2026,47,413,3,117,22,sr:competitor:617530,"Wallin, Olle",Sweden,SWE
+ATP,men,2026,47,414,3,117,24,sr:competitor:114885,"Nikles, Johan",Switzerland,CHE
+ATP,men,2026,47,415,-3,117,28,sr:competitor:920893,"Leong, Mitsuki Wei Kang",Malaysia,MYS
+ATP,men,2026,47,416,-16,117,28,sr:competitor:373852,"Zink, Tyler",USA,USA
+ATP,men,2026,47,417,-7,116,21,sr:competitor:221556,"Alves, Mateus",Brazil,BRA
+ATP,men,2026,47,418,1,116,24,sr:competitor:497320,"Visker, Niels",Netherlands,NLD
+ATP,men,2026,47,419,9,115,19,sr:competitor:222628,"Ayeni, Alafia",USA,USA
+ATP,men,2026,47,420,1,115,27,sr:competitor:312348,"Pankin, Semen",Neutral,
+ATP,men,2026,47,421,-12,113,20,sr:competitor:152898,"Gengel, Marek",Czechia,CZE
+ATP,men,2026,47,422,1,113,22,sr:competitor:1016445,"Aguiard, Enzo",Australia,AUS
+ATP,men,2026,47,423,1,113,25,sr:competitor:17065,"Chazal, Maxime",France,FRA
+ATP,men,2026,47,424,1,113,25,sr:competitor:395828,"Saraiva Dos Santos, Paulo Andre",Brazil,BRA
+ATP,men,2026,47,425,1,112,13,sr:competitor:1138465,"Johnson, Spencer",USA,USA
+ATP,men,2026,47,426,3,110,21,sr:competitor:54975,"Casanova, Hernan",Argentina,ARG
+ATP,men,2026,47,427,-9,110,23,sr:competitor:107357,"Grenier, Hugo",France,FRA
+ATP,men,2026,47,428,2,110,23,sr:competitor:831458,"Kelm, Yannik",Germany,DEU
+ATP,men,2026,47,429,3,109,31,sr:competitor:286367,"Krutykh, Oleksii",Ukraine,UKR
+ATP,men,2026,47,430,3,108,18,sr:competitor:313891,"Weber, Arthur",France,FRA
+ATP,men,2026,47,431,3,108,22,sr:competitor:92667,"Castelnuovo, Luca",Switzerland,CHE
+ATP,men,2026,47,432,5,108,23,sr:competitor:154572,"Mashtakov, Nikita",Ukraine,UKR
+ATP,men,2026,47,433,2,108,27,sr:competitor:787154,"Campana Lee, Gerard",Republic of Korea,KOR
+ATP,men,2026,47,434,5,108,28,sr:competitor:207777,"Imamura, Masamichi",Japan,JPN
+ATP,men,2026,47,435,87,107,20,sr:competitor:813476,"Artnak, Bor",Slovenia,SVN
+ATP,men,2026,47,436,2,107,25,sr:competitor:152864,"Prihodko, Oleg",North Macedonia,MKD
+ATP,men,2026,47,437,4,107,27,sr:competitor:303862,"Johns, Garrett",USA,USA
+ATP,men,2026,47,438,5,106,25,sr:competitor:111857,"Ursu, Vadym",Ukraine,UKR
+ATP,men,2026,47,439,3,106,25,sr:competitor:313983,"Staeheli, Luca",Switzerland,CHE
+ATP,men,2026,47,440,10,105,27,sr:competitor:32466,"Moriya, Hiroki",Japan,JPN
+ATP,men,2026,47,441,3,104,30,sr:competitor:141882,"Blancaneaux, Geoffrey",France,FRA
+ATP,men,2026,47,442,6,103,11,sr:competitor:283965,"Suresh, Dhakshineswar",India,IND
+ATP,men,2026,47,443,96,103,20,sr:competitor:76515,"Gakhov, Ivan",Neutral,
+ATP,men,2026,47,444,5,103,22,sr:competitor:251025,"Marti Pujolras, Alex",Spain,ESP
+ATP,men,2026,47,445,96,103,26,sr:competitor:870877,"Bailly, Gilles Arnaud",Belgium,BEL
+ATP,men,2026,47,446,5,102,9,sr:competitor:801696,"Dominko, Sebastian",Slovenia,SVN
+ATP,men,2026,47,447,5,102,18,sr:competitor:312728,"Stewart, Hamish",Great Britain,GBR
+ATP,men,2026,47,448,24,102,22,sr:competitor:1034435,"McDonald, Niels",Germany,DEU
+ATP,men,2026,47,449,-2,102,25,sr:competitor:185434,"Rodriguez Taverna, Santiago",Argentina,ARG
+ATP,men,2026,47,450,3,102,29,sr:competitor:447687,"Tabacco, Fausto",Italy,ITA
+ATP,men,2026,47,451,3,101,22,sr:competitor:108767,"Hassan, Benjamin",Lebanon,LBN
+ATP,men,2026,47,452,39,101,23,sr:competitor:395890,"Magadan, Alan",Mexico,MEX
+ATP,men,2026,47,453,2,101,28,sr:competitor:494844,"Binda, Alexander",Italy,ITA
+ATP,men,2026,47,454,3,100,18,sr:competitor:1028097,"Boogaard, Thijs",Netherlands,NLD
+ATP,men,2026,47,455,-9,100,23,sr:competitor:210636,"Poling, Karl",USA,USA
+ATP,men,2026,47,456,2,100,24,sr:competitor:915685,"Bennani, Karim",Morocco,MAR
+ATP,men,2026,47,457,-37,100,26,sr:competitor:180446,"Wessels, Louis",Germany,DEU
+ATP,men,2026,47,458,1,100,27,sr:competitor:978611,"Ivanov, Ivan",Bulgaria,BGR
+ATP,men,2026,47,459,-23,100,28,sr:competitor:65576,"Sakamoto, Pedro",Brazil,BRA
+ATP,men,2026,47,460,-29,100,30,sr:competitor:82579,"Uchida, Kaichi",Japan,JPN
+ATP,men,2026,47,461,0,100,32,sr:competitor:162144,"Zhu, Evan",USA,USA
+ATP,men,2026,47,462,0,99,13,sr:competitor:321665,"Marmousez, Lilian",France,FRA
+ATP,men,2026,47,463,3,98,20,sr:competitor:202627,"Madaras, Dragos Nicolae",Sweden,SWE
+ATP,men,2026,47,464,3,98,22,sr:competitor:457061,"Vandecasteele, Quinn",USA,USA
+ATP,men,2026,47,465,12,98,23,sr:competitor:668817,"Shepp, Anton",New Zealand,NZL
+ATP,men,2026,47,466,-21,98,24,sr:competitor:389114,"Guillen Meza, Alvaro",Ecuador,ECU
+ATP,men,2026,47,467,1,98,25,sr:competitor:265559,"Arnaboldi, Federico",Italy,ITA
+ATP,men,2026,47,468,-5,98,25,sr:competitor:353548,"Hernandez, Alex",Mexico,MEX
+ATP,men,2026,47,469,0,98,26,sr:competitor:50847,"Yevseyev, Denis",Kazakhstan,KAZ
+ATP,men,2026,47,470,-55,97,14,sr:competitor:145080,"Miyoshi, Kenta (2004)",Japan,JPN
+ATP,men,2026,47,471,-7,97,26,sr:competitor:82133,"Dellien, Murkel",Bolivia,BOL
+ATP,men,2026,47,472,12,96,22,sr:competitor:948505,"Matsuda, Koki",Japan,JPN
+ATP,men,2026,47,473,1,96,28,sr:competitor:744235,"Faucon, Romain",Belgium,BEL
+ATP,men,2026,47,474,36,96,30,sr:competitor:619828,"Planinsek, Filip Jeff",Slovenia,SVN
+ATP,men,2026,47,475,1,95,17,sr:competitor:904525,"Svajda, Trevor",USA,USA
+ATP,men,2026,47,476,6,95,22,sr:competitor:52276,"Krueger, Mitchell",USA,USA
+ATP,men,2026,47,477,3,95,34,sr:competitor:310968,"Bouzige, Moerani",Australia,AUS
+ATP,men,2026,47,478,5,95,38,sr:competitor:217192,"Ouakaa, Aziz",Tunisia,TUN
+ATP,men,2026,47,479,-8,94,25,sr:competitor:791680,"Vales, Amit",Israel,ISR
+ATP,men,2026,47,480,-2,94,26,sr:competitor:353586,"Fenty, Andrew",USA,USA
+ATP,men,2026,47,481,-2,94,29,sr:competitor:79227,"Sinclair, Colin",Northern Mariana Islands,MNP
+ATP,men,2026,47,482,11,93,14,sr:competitor:565070,"Monday, Johannus",Great Britain,GBR
+ATP,men,2026,47,483,2,92,23,sr:competitor:165234,"Vasa, Eero",Finland,FIN
+ATP,men,2026,47,484,4,92,24,sr:competitor:534033,"Saitoh, Keisuke",Japan,JPN
+ATP,men,2026,47,485,-25,92,29,sr:competitor:312436,"Hudd, Emile",Great Britain,GBR
+ATP,men,2026,47,486,-11,91,11,sr:competitor:43761,"Collarini, Andrea",Argentina,ARG
+ATP,men,2026,47,487,2,91,24,sr:competitor:866205,"Callejon Hernando, Sergio",Spain,ESP
+ATP,men,2026,47,488,2,91,24,sr:competitor:232302,"Wiedenmann, Luca",Germany,DEU
+ATP,men,2026,47,489,3,91,32,sr:competitor:170964,"Bittoun Kouzmine, Constantin",France,FRA
+ATP,men,2026,47,490,-9,90,12,sr:competitor:634350,"Djuric, Branko",Serbia,SRB
+ATP,men,2026,47,491,-5,89,12,sr:competitor:353550,"Loffhagen, George",Great Britain,GBR
+ATP,men,2026,47,492,4,89,20,sr:competitor:588081,"Siniakov, Daniel",Czechia,CZE
+ATP,men,2026,47,493,2,89,20,sr:competitor:50901,"Popko, Dmitry",Kazakhstan,KAZ
+ATP,men,2026,47,494,29,89,22,sr:competitor:878709,"Bigun, Kaylan",USA,USA
+ATP,men,2026,47,495,-1,88,15,sr:competitor:897995,"Brunclik, Petr",Czechia,CZE
+ATP,men,2026,47,496,4,88,19,sr:competitor:723013,"Pokorny, Lukas",Slovakia,SVK
+ATP,men,2026,47,497,4,88,28,sr:competitor:364934,"Obradovic, Dusan",Serbia,SRB
+ATP,men,2026,47,498,5,87,13,sr:competitor:144102,"Weis, Alexander",Italy,ITA
+ATP,men,2026,47,499,5,87,14,sr:competitor:49417,"Tu, Li",Australia,AUS
+ATP,men,2026,47,500,7,87,22,sr:competitor:1147079,"Basile, Pierluigi",Italy,ITA
+WTA,women,2026,47,1,0,8099,21,sr:competitor:186312,"Rybakina, Elena",Kazakhstan,KAZ
+WTA,women,2026,47,2,1,7806,21,sr:competitor:871583,"Andreeva, Mirra",Neutral,
+WTA,women,2026,47,3,-1,6685,21,sr:competitor:157754,"Sabalenka, Aryna",Neutral,
+WTA,women,2026,47,4,0,6163,21,sr:competitor:373352,"Gauff, Coco",USA,USA
+WTA,women,2026,47,5,0,6160,21,sr:competitor:44834,"Pegula, Jessica",USA,USA
+WTA,women,2026,47,6,0,5921,21,sr:competitor:51293,"Svitolina, Elina",Ukraine,UKR
+WTA,women,2026,47,7,1,4743,21,sr:competitor:401055,"Noskova, Linda",Czechia,CZE
+WTA,women,2026,47,8,-1,4665,20,sr:competitor:85077,"Muchova, Karolina",Czechia,CZE
+WTA,women,2026,47,9,0,4188,19,sr:competitor:274013,"Swiatek, Iga",Poland,POL
+WTA,women,2026,47,10,0,3910,20,sr:competitor:278887,"Kostyuk, Marta",Ukraine,UKR
+WTA,women,2026,47,11,0,3238,23,sr:competitor:588071,"Shnaider, Diana",Neutral,
+WTA,women,2026,47,12,0,3016,23,sr:competitor:235260,"Chwalinska, Maja",Poland,POL
+WTA,women,2026,47,13,0,2941,22,sr:competitor:914135,"Jovic, Iva",USA,USA
+WTA,women,2026,47,14,0,2540,23,sr:competitor:78551,"Mertens, Elise",Belgium,BEL
+WTA,women,2026,47,15,0,2392,29,sr:competitor:627278,"Eala, Alexandra",Philippines,PHL
+WTA,women,2026,47,16,0,2386,23,sr:competitor:19728,"Cirstea, Sorana",Romania,ROU
+WTA,women,2026,47,17,0,2315,20,sr:competitor:66476,"Osaka, Naomi",Japan,JPN
+WTA,women,2026,47,18,0,2201,28,sr:competitor:289507,"Fernandez, Leylah",Canada,CAN
+WTA,women,2026,47,19,0,2175,19,sr:competitor:35424,"Keys, Madison",USA,USA
+WTA,women,2026,47,20,0,2168,18,sr:competitor:63957,"Bencic, Belinda",Switzerland,CHE
+WTA,women,2026,47,21,0,2143,14,sr:competitor:813176,"Mboko, Victoria",Canada,CAN
+WTA,women,2026,47,22,0,2017,19,sr:competitor:348760,"Zheng, Qinwen",China,CHN
+WTA,women,2026,47,23,0,1963,13,sr:competitor:281189,"Anisimova, Amanda",USA,USA
+WTA,women,2026,47,24,0,1959,23,sr:competitor:105463,"Bouzkova, Marie",Czechia,CZE
+WTA,women,2026,47,25,0,1916,22,sr:competitor:64496,"Ostapenko, Jelena",Latvia,LVA
+WTA,women,2026,47,26,0,1913,20,sr:competitor:179146,"Kalinskaya, Anna",Neutral,
+WTA,women,2026,47,27,0,1819,23,sr:competitor:228418,"Navarro, Emma",USA,USA
+WTA,women,2026,47,28,0,1814,21,sr:competitor:234150,"Potapova, Anastasia",Austria,AUT
+WTA,women,2026,47,29,0,1779,24,sr:competitor:65950,"Sakkari, Maria",Greece,GRC
+WTA,women,2026,47,30,0,1711,22,sr:competitor:721779,"Bartunkova, Nikola",Czechia,CZE
+WTA,women,2026,47,31,0,1681,27,sr:competitor:261583,"Li, Ann",USA,USA
+WTA,women,2026,47,32,0,1641,27,sr:competitor:67759,"Alexandrova, Ekaterina",Neutral,
+WTA,women,2026,47,33,0,1614,24,sr:competitor:741433,"Bejlek, Sara",Czechia,CZE
+WTA,women,2026,47,34,0,1521,27,sr:competitor:318195,"Parry, Diane",France,FRA
+WTA,women,2026,47,35,0,1512,21,sr:competitor:69208,"Paolini, Jasmine",Italy,ITA
+WTA,women,2026,47,36,0,1342,32,sr:competitor:534045,"Gibson, Talia",Australia,AUS
+WTA,women,2026,47,37,0,1316,24,sr:competitor:360038,"Stearns, Peyton",USA,USA
+WTA,women,2026,47,38,0,1288,26,sr:competitor:272217,"Wang, Xinyu",China,CHN
+WTA,women,2026,47,39,0,1281,23,sr:competitor:50641,"Vekic, Donna",Croatia,HRV
+WTA,women,2026,47,40,0,1234,28,sr:competitor:128584,"Samsonova, Liudmila",Neutral,
+WTA,women,2026,47,41,0,1233,23,sr:competitor:549759,"Krueger, Ashlyn",USA,USA
+WTA,women,2026,47,42,0,1223,24,sr:competitor:380704,"Snigur, Daria",Ukraine,UKR
+WTA,women,2026,47,43,0,1176,24,sr:competitor:42289,"Linette, Magda",Poland,POL
+WTA,women,2026,47,44,0,1176,24,sr:competitor:99131,"Bucsa, Cristina",Spain,ESP
+WTA,women,2026,47,45,0,1164,28,sr:competitor:252223,"Rakhimova, Kamilla",Uzbekistan,UZB
+WTA,women,2026,47,46,0,1153,14,sr:competitor:319455,"Baptiste, Hailey",USA,USA
+WTA,women,2026,47,47,0,1146,27,sr:competitor:105099,"Birrell, Kimberly",Australia,AUS
+WTA,women,2026,47,48,0,1143,20,sr:competitor:72376,"Siniakova, Katerina",Czechia,CZE
+WTA,women,2026,47,49,0,1133,20,sr:competitor:60398,"Krejcikova, Barbora",Czechia,CZE
+WTA,women,2026,47,50,0,1125,23,sr:competitor:62924,"Boulter, Katie",Great Britain,GBR
+WTA,women,2026,47,51,0,1110,24,sr:competitor:71250,"Frech, Magdalena",Poland,POL
+WTA,women,2026,47,52,0,1105,13,sr:competitor:20732,"Pliskova, Karolina",Czechia,CZE
+WTA,women,2026,47,53,0,1097,11,sr:competitor:459013,"Kartal, Sonay",Great Britain,GBR
+WTA,women,2026,47,54,0,1091,23,sr:competitor:906723,"Tagger, Lilli",Austria,AUT
+WTA,women,2026,47,55,0,1090,29,sr:competitor:225130,"Starodubtseva, Yuliia",Ukraine,UKR
+WTA,women,2026,47,56,0,1087,25,sr:competitor:90664,"Kalinina, Anhelina",Ukraine,UKR
+WTA,women,2026,47,57,0,1076,25,sr:competitor:133662,"Badosa, Paula",Spain,ESP
+WTA,women,2026,47,58,0,1074,24,sr:competitor:329535,"Tauson, Clara",Denmark,DNK
+WTA,women,2026,47,59,0,1064,35,sr:competitor:256547,"Parks, Alycia",USA,USA
+WTA,women,2026,47,60,0,1033,30,sr:competitor:460837,"Tjen, Janice",Indonesia,IDN
+WTA,women,2026,47,61,0,1033,24,sr:competitor:103901,"Ruse, Elena-Gabriela",Romania,ROU
+WTA,women,2026,47,62,1,1012,28,sr:competitor:604388,"Tararudee, Lanlana",Thailand,THA
+WTA,women,2026,47,63,1,1011,27,sr:competitor:299310,"Sonmez, Zeynep",Turkiye,TUR
+WTA,women,2026,47,64,1,1006,26,sr:competitor:88310,"Sherif Ahmed Abdelaziz, Mayar",Egypt,EGY
+WTA,women,2026,47,65,1,1000,24,sr:competitor:45545,"Putintseva, Yulia",Kazakhstan,KAZ
+WTA,women,2026,47,66,1,999,24,sr:competitor:242602,"McNally, Caty",USA,USA
+WTA,women,2026,47,67,-5,997,30,sr:competitor:69988,"Korpatsch, Tamara",Germany,DEU
+WTA,women,2026,47,68,0,996,34,sr:competitor:19520,"Maria, Tatjana",Germany,DEU
+WTA,women,2026,47,69,0,972,25,sr:competitor:179300,"Liu, Claire",USA,USA
+WTA,women,2026,47,70,0,957,30,sr:competitor:325729,"Oliynykova, Oleksandra",Ukraine,UKR
+WTA,women,2026,47,71,0,953,23,sr:competitor:242630,"Osorio, Camila",Colombia,COL
+WTA,women,2026,47,72,0,952,25,sr:competitor:467035,"Timofeeva, Maria",Neutral,
+WTA,women,2026,47,73,0,937,23,sr:competitor:874195,"Quevedo, Kaitlin",Spain,ESP
+WTA,women,2026,47,74,0,931,19,sr:competitor:373354,"Cocciaretto, Elisabetta",Italy,ITA
+WTA,women,2026,47,75,0,928,27,sr:competitor:132370,"Kasatkina, Daria",Australia,AUS
+WTA,women,2026,47,76,0,913,28,sr:competitor:150574,"Bondar, Anna",Hungary,HUN
+WTA,women,2026,47,77,23,900,23,sr:competitor:217912,"Andreescu, Bianca",Canada,CAN
+WTA,women,2026,47,78,-1,898,31,sr:competitor:577513,"Ruzic, Antonia",Croatia,HRV
+WTA,women,2026,47,79,-1,895,23,sr:competitor:845268,"Korneeva, Alina",Neutral,
+WTA,women,2026,47,80,-1,886,30,sr:competitor:300496,"Sawangkaew, Mananchaya",Thailand,THA
+WTA,women,2026,47,81,-1,874,29,sr:competitor:343160,"Volynets, Katie",USA,USA
+WTA,women,2026,47,82,-1,869,19,sr:competitor:72758,"Cristian, Jaqueline",Romania,ROU
+WTA,women,2026,47,83,-1,868,15,sr:competitor:262759,"Wang, Xiyu",China,CHN
+WTA,women,2026,47,84,-1,859,31,sr:competitor:341216,"Charaeva, Alina",Armenia,ARM
+WTA,women,2026,47,85,-1,854,25,sr:competitor:53789,"Dart, Harriet",Great Britain,GBR
+WTA,women,2026,47,86,-1,853,24,sr:competitor:728549,"Valentova, Tereza",Czechia,CZE
+WTA,women,2026,47,87,-1,852,26,sr:competitor:467037,"Kudermetova, Polina",Uzbekistan,UZB
+WTA,women,2026,47,88,-1,848,30,sr:competitor:254551,"Udvardy, Panna",Hungary,HUN
+WTA,women,2026,47,89,-1,845,27,sr:competitor:790640,"Marcinko, Petra",Croatia,HRV
+WTA,women,2026,47,90,-1,841,29,sr:competitor:112957,"Jeanjean, Leolia",France,FRA
+WTA,women,2026,47,91,-1,839,26,sr:competitor:45902,"Sasnovich, Aliaksandra",Neutral,
+WTA,women,2026,47,92,0,832,27,sr:competitor:776340,"Joint, Maya",Australia,AUS
+WTA,women,2026,47,93,0,831,13,sr:competitor:51387,"Townsend, Taylor",USA,USA
+WTA,women,2026,47,94,0,831,25,sr:competitor:48455,"Golubic, Viktorija",Switzerland,CHE
+WTA,women,2026,47,95,-4,828,30,sr:competitor:675189,"Preston, Taylah",Australia,AUS
+WTA,women,2026,47,96,-1,814,32,sr:competitor:315609,"Kraus, Sinja",Austria,AUT
+WTA,women,2026,47,97,-1,812,25,sr:competitor:501894,"Vidmanova, Darja",Czechia,CZE
+WTA,women,2026,47,98,-1,802,33,sr:competitor:19607,"Zhang, Shuai",China,CHN
+WTA,women,2026,47,99,-1,795,25,sr:competitor:65656,"Ferro, Fiona",France,FRA
+WTA,women,2026,47,100,-1,778,25,sr:competitor:198488,"Jones, Francesca",Great Britain,GBR
+WTA,women,2026,47,101,0,776,33,sr:competitor:192130,"Blinkova, Anna",Neutral,
+WTA,women,2026,47,102,0,772,33,sr:competitor:341112,"Zakharova, Anastasia",Neutral,
+WTA,women,2026,47,103,0,770,27,sr:competitor:192108,"Yastremska, Dayana",Ukraine,UKR
+WTA,women,2026,47,104,0,769,28,sr:competitor:405057,"Bouzas Maneiro, Jessica",Spain,ESP
+WTA,women,2026,47,105,1,730,25,sr:competitor:504238,"Sierra, Solana",Argentina,ARG
+WTA,women,2026,47,106,-1,725,11,sr:competitor:1186895,"Liutova, Kristina",Neutral,
+WTA,women,2026,47,107,12,719,27,sr:competitor:1017327,"Samson, Laura",Czechia,CZE
+WTA,women,2026,47,108,-1,709,12,sr:competitor:352782,"Raducanu, Emma",Great Britain,GBR
+WTA,women,2026,47,109,0,699,23,sr:competitor:287769,"Kessler, McCartney",USA,USA
+WTA,women,2026,47,110,0,696,30,sr:competitor:155890,"Stefanini, Lucrezia",Italy,ITA
+WTA,women,2026,47,111,0,695,30,sr:competitor:297588,"Romero Gormaz, Leyre",Spain,ESP
+WTA,women,2026,47,112,0,694,32,sr:competitor:448081,"Noha Akugue, Noma",Germany,DEU
+WTA,women,2026,47,113,0,690,25,sr:competitor:801414,"Vandewinkel, Hanne",Belgium,BEL
+WTA,women,2026,47,114,1,685,32,sr:competitor:113079,"Grabher, Julia",Austria,AUT
+WTA,women,2026,47,115,-1,685,34,sr:competitor:111189,"Zarazua, Renata",Mexico,MEX
+WTA,women,2026,47,116,1,678,23,sr:competitor:23158,"Stephens, Sloane",USA,USA
+WTA,women,2026,47,117,-9,675,25,sr:competitor:412817,"Pigato, Lisa",Italy,ITA
+WTA,women,2026,47,118,0,672,28,sr:competitor:42492,"Kawa, Katarzyna",Poland,POL
+WTA,women,2026,47,119,1,660,30,sr:competitor:335171,"Uchijima, Moyuka",Japan,JPN
+WTA,women,2026,47,120,1,654,27,sr:competitor:835864,"Podrez, Veronika",Ukraine,UKR
+WTA,women,2026,47,121,1,648,32,sr:competitor:445421,"Selekhmeteva, Oksana",Neutral,
+WTA,women,2026,47,122,1,648,21,sr:competitor:784280,"Prozorova, Tatiana",Neutral,
+WTA,women,2026,47,123,-7,646,29,sr:competitor:679319,"Stoiana, Mary",USA,USA
+WTA,women,2026,47,124,0,645,17,sr:competitor:1076038,"Pohankova, Mia",Slovakia,SVK
+WTA,women,2026,47,125,0,638,31,sr:competitor:380396,"Kalieva, Elvina",USA,USA
+WTA,women,2026,47,126,0,635,25,sr:competitor:137962,"Day, Kayla",USA,USA
+WTA,women,2026,47,127,0,629,25,sr:competitor:906635,"Shubladze, Alexandra",Neutral,
+WTA,women,2026,47,128,0,622,25,sr:competitor:881685,"Vandromme, Jeline",Belgium,BEL
+WTA,women,2026,47,129,1,612,29,sr:competitor:282219,"Sakatsume, Himeno",Japan,JPN
+WTA,women,2026,47,130,-1,609,30,sr:competitor:183861,"Bassols Ribera, Marina",Spain,ESP
+WTA,women,2026,47,131,0,597,28,sr:competitor:662615,"Salkova, Dominika",Czechia,CZE
+WTA,women,2026,47,132,0,591,33,sr:competitor:406199,"Jacquemot, Elsa",France,FRA
+WTA,women,2026,47,133,1,590,28,sr:competitor:978117,"Jones, Emerson",Australia,AUS
+WTA,women,2026,47,134,-1,584,15,sr:competitor:499484,"Montgomery, Robin",USA,USA
+WTA,women,2026,47,135,1,566,33,sr:competitor:110055,"Bronzetti, Lucia",Italy,ITA
+WTA,women,2026,47,136,-1,561,31,sr:competitor:245295,"Waltert, Simona",Switzerland,CHE
+WTA,women,2026,47,137,0,558,29,sr:competitor:337813,"Riera, Julia",Argentina,ARG
+WTA,women,2026,47,138,0,548,20,sr:competitor:99405,"Inglis, Maddison",Australia,AUS
+WTA,women,2026,47,139,7,543,30,sr:competitor:227490,"Tubello, Alice",France,FRA
+WTA,women,2026,47,140,3,541,23,sr:competitor:63682,"Lazaro Garcia, Andrea",Spain,ESP
+WTA,women,2026,47,141,15,539,28,sr:competitor:356694,"Lee, Carol Young Suh",USA,USA
+WTA,women,2026,47,142,-3,535,27,sr:competitor:942037,"Yaneva, Elizara",Bulgaria,BGR
+WTA,women,2026,47,143,-3,531,33,sr:competitor:624838,"Shi, Han",China,CHN
+WTA,women,2026,47,144,-3,528,24,sr:competitor:473609,"Kubka, Martyna",Poland,POL
+WTA,women,2026,47,145,-3,527,21,sr:competitor:110299,"Zidansek, Tamara",Slovenia,SVN
+WTA,women,2026,47,146,-2,522,31,sr:competitor:1020125,"Kostovic, Teodora",Serbia,SRB
+WTA,women,2026,47,147,0,516,17,sr:competitor:34486,"Tomljanovic, Ajla",Australia,AUS
+WTA,women,2026,47,148,1,512,15,sr:competitor:225046,"Burel, Clara",France,FRA
+WTA,women,2026,47,149,1,507,11,sr:competitor:90814,"Teichmann, Jil",Switzerland,CHE
+WTA,women,2026,47,150,1,507,26,sr:competitor:71034,"Sramkova, Rebecca",Slovakia,SVK
+WTA,women,2026,47,151,2,498,19,sr:competitor:366114,"Avanesyan, Elina",Armenia,ARM
+WTA,women,2026,47,152,30,495,18,sr:competitor:280657,"Garland, Joanna",Chinese Taipei,TPE
+WTA,women,2026,47,153,1,494,25,sr:competitor:215476,"Siskova, Anna",Czechia,CZE
+WTA,women,2026,47,154,1,494,26,sr:competitor:102191,"Aksu, Ayla",Turkiye,TUR
+WTA,women,2026,47,155,2,486,29,sr:competitor:97995,"Galfi, Dalma",Hungary,HUN
+WTA,women,2026,47,156,-4,486,31,sr:competitor:206949,"Hontama, Mai",Japan,JPN
+WTA,women,2026,47,157,1,479,18,sr:competitor:978809,"Grant, Tyra Caterina",Italy,ITA
+WTA,women,2026,47,158,-13,470,22,sr:competitor:208017,"Maristany Zuleta de Reales, Guiomar",Spain,ESP
+WTA,women,2026,47,159,0,470,24,sr:competitor:881847,"Urhobo, Akasha",USA,USA
+WTA,women,2026,47,160,0,469,26,sr:competitor:124804,"Masarova, Rebeka",Switzerland,CHE
+WTA,women,2026,47,161,0,467,27,sr:competitor:369524,"Erjavec, Veronika",Slovenia,SVN
+WTA,women,2026,47,162,0,466,29,sr:competitor:106341,"Knutson, Gabriela",Czechia,CZE
+WTA,women,2026,47,163,3,464,28,sr:competitor:335165,"Ku, Yeon Woo",Republic of Korea,KOR
+WTA,women,2026,47,164,-1,463,18,sr:competitor:45835,"Hunter, Storm",Australia,AUS
+WTA,women,2026,47,165,-17,463,21,sr:competitor:155952,"Swan, Katie",Great Britain,GBR
+WTA,women,2026,47,166,-1,454,25,sr:competitor:60392,"Sorribes Tormo, Sara",Spain,ESP
+WTA,women,2026,47,167,-3,454,28,sr:competitor:628190,"Sobolieva, Anastasiia",Ukraine,UKR
+WTA,women,2026,47,168,-1,453,29,sr:competitor:96061,"Bandecchi, Susan",Switzerland,CHE
+WTA,women,2026,47,169,-1,452,23,sr:competitor:882091,"Valdmannova, Vendula",Czechia,CZE
+WTA,women,2026,47,170,-1,452,26,sr:competitor:904005,"Ibragimova, Alevtina",Neutral,
+WTA,women,2026,47,171,-1,449,27,sr:competitor:526975,"Fruhvirtova, Linda",Czechia,CZE
+WTA,women,2026,47,172,-1,449,26,sr:competitor:41877,"Yuan, Yue",China,CHN
+WTA,women,2026,47,173,-1,448,28,sr:competitor:750327,"Iatcenko, Polina",Neutral,
+WTA,women,2026,47,174,-1,441,29,sr:competitor:208105,"Arango, Emiliana",Colombia,COL
+WTA,women,2026,47,175,-1,440,17,sr:competitor:123824,"Dolehide, Caroline",USA,USA
+WTA,women,2026,47,176,-1,439,27,sr:competitor:568715,"Semenistaja, Darja",Latvia,LVA
+WTA,women,2026,47,177,-1,438,21,sr:competitor:246941,"Lys, Eva",Germany,DEU
+WTA,women,2026,47,178,-1,436,27,sr:competitor:445291,"Astakhova, Darya",Neutral,
+WTA,women,2026,47,179,21,436,26,sr:competitor:19957,"Hercog, Polona",Slovenia,SVN
+WTA,women,2026,47,180,-2,430,32,sr:competitor:19610,"Brengle, Madison",USA,USA
+WTA,women,2026,47,181,2,429,33,sr:competitor:675193,"Costoulas, Sofia",Belgium,BEL
+WTA,women,2026,47,182,5,425,23,sr:competitor:337811,"Ortenzi, Jazmin",Argentina,ARG
+WTA,women,2026,47,183,-2,423,15,sr:competitor:577523,"Brantmeier, Reese",USA,USA
+WTA,women,2026,47,184,-5,423,31,sr:competitor:728547,"Palicova, Barbora",Czechia,CZE
+WTA,women,2026,47,185,-1,414,27,sr:competitor:799304,"Pridankina, Elena",Neutral,
+WTA,women,2026,47,186,-1,413,28,sr:competitor:720629,"Ristic, Mia",Serbia,SRB
+WTA,women,2026,47,187,-1,413,22,sr:competitor:784898,"Giovannini, Luisina",Argentina,ARG
+WTA,women,2026,47,188,0,411,31,sr:competitor:48486,"Gorgodze, Ekaterine",Georgia,GEO
+WTA,women,2026,47,189,2,410,26,sr:competitor:91960,"Kenin, Sofia",USA,USA
+WTA,women,2026,47,190,2,409,16,sr:competitor:60276,"Podoroska, Nadia",Argentina,ARG
+WTA,women,2026,47,191,2,409,26,sr:competitor:210716,"Lamens, Suzan",Netherlands,NLD
+WTA,women,2026,47,192,-3,409,26,sr:competitor:662257,"Havlickova, Lucie",Czechia,CZE
+WTA,women,2026,47,193,15,406,25,sr:competitor:805538,"Cross, Kayla",Canada,CAN
+WTA,women,2026,47,194,43,403,28,sr:competitor:273017,"Mandlik, Elizabeth",USA,USA
+WTA,women,2026,47,195,-1,402,15,sr:competitor:37508,"Siegemund, Laura",Germany,DEU
+WTA,women,2026,47,196,0,399,23,sr:competitor:342788,"Curmi, Francesca",Malta,MLT
+WTA,women,2026,47,197,0,398,31,sr:competitor:42839,"Barthel, Mona",Germany,DEU
+WTA,women,2026,47,198,-18,395,29,sr:competitor:215598,"Vedder, Eva",Netherlands,NLD
+WTA,women,2026,47,199,-4,394,27,sr:competitor:278943,"Lansere, Sofya",Neutral,
+WTA,women,2026,47,200,-1,393,25,sr:competitor:72450,"Hibino, Nao",Japan,JPN
+WTA,women,2026,47,201,0,389,23,sr:competitor:517296,"Falei, Aliona",Neutral,
+WTA,women,2026,47,202,0,387,18,sr:competitor:890199,"Dencheva, Rositsa",Bulgaria,BGR
+WTA,women,2026,47,203,0,385,28,sr:competitor:728507,"Dudeney, Alicia",Great Britain,GBR
+WTA,women,2026,47,204,9,385,30,sr:competitor:98733,"Burillo Escorihuela, Irene",Spain,ESP
+WTA,women,2026,47,205,-15,385,21,sr:competitor:857871,"de Stefano, Samira",Italy,ITA
+WTA,women,2026,47,206,-2,384,17,sr:competitor:938101,"Pareja, Julieta",USA,USA
+WTA,women,2026,47,207,-2,381,25,sr:competitor:655811,"Avdeeva, Julia",Neutral,
+WTA,women,2026,47,208,-1,380,31,sr:competitor:132988,"Ma, Yexin",China,CHN
+WTA,women,2026,47,209,5,375,35,sr:competitor:256447,"Monnet, Carole",France,FRA
+WTA,women,2026,47,210,14,374,17,sr:competitor:588069,"Bai, Zhuoxuan",China,CHN
+WTA,women,2026,47,211,-5,369,18,sr:competitor:378226,"Crawley, Fiona",USA,USA
+WTA,women,2026,47,212,-3,369,22,sr:competitor:459171,"Mintegi Del Olmo, Ane",Spain,ESP
+WTA,women,2026,47,213,-2,365,26,sr:competitor:134532,"You, Xiaodi",China,CHN
+WTA,women,2026,47,214,29,362,28,sr:competitor:130690,"Okamura, Kyoka",Japan,JPN
+WTA,women,2026,47,215,0,361,16,sr:competitor:153652,"Guo, Hanyu",China,CHN
+WTA,women,2026,47,216,-18,361,22,sr:competitor:67322,"Tan, Harmony",France,FRA
+WTA,women,2026,47,217,-1,361,30,sr:competitor:18919,"Lepchenko, Varvara",USA,USA
+WTA,women,2026,47,218,-1,360,28,sr:competitor:675191,"Jimenez Kasintseva, Victoria",Andorra,AND
+WTA,women,2026,47,219,4,359,28,sr:competitor:870979,"Kinoshita, Hayu",Japan,JPN
+WTA,women,2026,47,220,-1,354,16,sr:competitor:771430,"Naef, Celine",Switzerland,CHE
+WTA,women,2026,47,221,-1,352,28,sr:competitor:227390,"Brancaccio, Nuria",Italy,ITA
+WTA,women,2026,47,222,-4,350,32,sr:competitor:132412,"Fita Boluda, Angela",Spain,ESP
+WTA,women,2026,47,223,-2,348,29,sr:competitor:128638,"Sebov, Katherine",Canada,CAN
+WTA,women,2026,47,224,-14,347,22,sr:competitor:130624,"Gasanova, Anastasia",Neutral,
+WTA,women,2026,47,225,0,345,27,sr:competitor:119216,"Herrero Linana, Alicia",Spain,ESP
+WTA,women,2026,47,226,0,343,20,sr:competitor:110803,"Minnen, Greet",Belgium,BEL
+WTA,women,2026,47,227,-15,343,27,sr:competitor:662273,"Andreeva, Erika",Neutral,
+WTA,women,2026,47,228,-1,343,29,sr:competitor:97415,"Rinaldo Persson, Kajsa",Sweden,SWE
+WTA,women,2026,47,229,-1,342,31,sr:competitor:137932,"Mikulskyte, Justina",Lithuania,LTU
+WTA,women,2026,47,230,1,341,35,sr:competitor:45139,"Papamichail, Despina",Greece,GRC
+WTA,women,2026,47,231,-2,340,22,sr:competitor:92879,"Shymanovich, Iryna",Neutral,
+WTA,women,2026,47,232,-2,340,27,sr:competitor:150130,"Gao, Xinyu",China,CHN
+WTA,women,2026,47,233,1,339,31,sr:competitor:141892,"Carle, Maria",Argentina,ARG
+WTA,women,2026,47,234,1,338,31,sr:competitor:260987,"Osuigwe, Whitney",USA,USA
+WTA,women,2026,47,235,-3,337,10,sr:competitor:246905,"Gracheva, Varvara",France,FRA
+WTA,women,2026,47,236,-14,333,29,sr:competitor:129534,"Hruncakova, Viktoria",Slovakia,SVK
+WTA,women,2026,47,237,-4,330,28,sr:competitor:762762,"Seidel, Ella",Germany,DEU
+WTA,women,2026,47,238,1,329,25,sr:competitor:134342,"Cengiz, Berfu",Turkiye,TUR
+WTA,women,2026,47,239,-1,328,26,sr:competitor:265553,"Naito, Yuki",Japan,JPN
+WTA,women,2026,47,240,-4,325,21,sr:competitor:915127,"Klugman, Hannah",Great Britain,GBR
+WTA,women,2026,47,241,7,320,31,sr:competitor:849553,"Yao, Xinxin",China,CHN
+WTA,women,2026,47,242,5,319,30,sr:competitor:329009,"Ryser, Valentina",Switzerland,CHE
+WTA,women,2026,47,243,-3,318,24,sr:competitor:770242,"Basiletti, Noemi",Italy,ITA
+WTA,women,2026,47,244,1,318,27,sr:competitor:649030,"Rapolu, Malaika",USA,USA
+WTA,women,2026,47,245,15,317,28,sr:competitor:118526,"Wolff, Vivian",USA,USA
+WTA,women,2026,47,246,-5,316,30,sr:competitor:210558,"Jorge, Francisca",Portugal,PRT
+WTA,women,2026,47,247,-5,313,24,sr:competitor:783792,"Kabbaj, Yasmine",Morocco,MAR
+WTA,women,2026,47,248,-4,313,24,sr:competitor:257691,"Hennemann, Caijsa Wilda",Sweden,SWE
+WTA,women,2026,47,249,-3,309,27,sr:competitor:202623,"Zavatska, Katarina",Ukraine,UKR
+WTA,women,2026,47,250,-1,305,30,sr:competitor:453301,"Jorge, Matilde",Portugal,PRT
+WTA,women,2026,47,251,0,302,28,sr:competitor:50655,"Friedsam, Anna-Lena",Germany,DEU
+WTA,women,2026,47,252,-2,300,29,sr:competitor:870983,"Saito, Sara",Japan,JPN
+WTA,women,2026,47,253,0,299,19,sr:competitor:496372,"Koevermans, Anouk",Netherlands,NLD
+WTA,women,2026,47,254,0,299,27,sr:competitor:745799,"Urgesi, Federica",Italy,ITA
+WTA,women,2026,47,255,8,298,30,sr:competitor:64085,"Pigossi, Laura",Brazil,BRA
+WTA,women,2026,47,256,-1,298,26,sr:competitor:250285,"Falkowska, Weronika",Poland,POL
+WTA,women,2026,47,257,0,297,28,sr:competitor:64968,"Dodin, Oceane",France,FRA
+WTA,women,2026,47,258,1,296,26,sr:competitor:98105,"Matoula, Martha",Greece,GRC
+WTA,women,2026,47,259,-7,292,22,sr:competitor:515432,"Ruggeri, Jennifer",Italy,ITA
+WTA,women,2026,47,260,-4,291,23,sr:competitor:510530,"Abe, Hiromi",Japan,JPN
+WTA,women,2026,47,261,0,289,24,sr:competitor:501140,"Klimovicova, Linda",Poland,POL
+WTA,women,2026,47,262,4,289,22,sr:competitor:118052,"Oz, Ipek",Turkiye,TUR
+WTA,women,2026,47,263,-1,286,16,sr:competitor:466689,"Boisson, Lois",France,FRA
+WTA,women,2026,47,264,-6,285,21,sr:competitor:494296,"Steur, Joelle Lilly Sophie",Germany,DEU
+WTA,women,2026,47,265,-1,284,28,sr:competitor:1022815,"Akli, Ayana",USA,USA
+WTA,women,2026,47,266,-1,283,17,sr:competitor:45584,"Zhu, Lin",China,CHN
+WTA,women,2026,47,267,0,282,21,sr:competitor:535801,"Schunk, Nastasja",Germany,DEU
+WTA,women,2026,47,268,0,280,13,sr:competitor:950919,"Oktiabreva, Alisa",Czechia,CZE
+WTA,women,2026,47,269,1,271,27,sr:competitor:720625,"Radivojevic, Lola",Serbia,SRB
+WTA,women,2026,47,270,1,269,26,sr:competitor:137948,"Chang, Hanna",USA,USA
+WTA,women,2026,47,271,1,266,33,sr:competitor:47969,"Werner, Caroline",Germany,DEU
+WTA,women,2026,47,272,1,261,24,sr:competitor:341196,"Back, Dayeon",Republic of Korea,KOR
+WTA,women,2026,47,273,-4,257,18,sr:competitor:763112,"Struplova, Julie",Czechia,CZE
+WTA,women,2026,47,274,3,257,22,sr:competitor:227486,"Zantedeschi, Aurora",Italy,ITA
+WTA,women,2026,47,275,-1,256,33,sr:competitor:861587,"Ansari, Carolyn",USA,USA
+WTA,women,2026,47,276,3,255,22,sr:competitor:545583,"Tian, Fangran",China,CHN
+WTA,women,2026,47,277,3,254,30,sr:competitor:19847,"Rus, Arantxa",Netherlands,NLD
+WTA,women,2026,47,278,3,254,28,sr:competitor:152106,"Zaar, Lisa",Sweden,SWE
+WTA,women,2026,47,279,-4,253,23,sr:competitor:842634,"Feistel, Gina",Poland,POL
+WTA,women,2026,47,280,-2,250,28,sr:competitor:230112,"Yamaguchi, Mei",Japan,JPN
+WTA,women,2026,47,281,6,250,29,sr:competitor:51839,"Alves, Carolina",Brazil,BRA
+WTA,women,2026,47,282,1,247,11,sr:competitor:18298,"Zvonareva, Vera",Neutral,
+WTA,women,2026,47,283,1,247,27,sr:competitor:960137,"Ren, Yufei",China,CHN
+WTA,women,2026,47,284,1,245,20,sr:competitor:63220,"Ponchet, Jessika",France,FRA
+WTA,women,2026,47,285,3,244,24,sr:competitor:751899,"Brace, Cadence",Canada,CAN
+WTA,women,2026,47,286,3,242,25,sr:competitor:842594,"Li, Zongyu",China,CHN
+WTA,women,2026,47,287,4,241,25,sr:competitor:658439,"Khomutsianskaya, Darya",Neutral,
+WTA,women,2026,47,288,15,240,28,sr:competitor:731427,"Micic, Elena",Australia,AUS
+WTA,women,2026,47,289,4,240,27,sr:competitor:445423,"Ma, Lea",USA,USA
+WTA,women,2026,47,290,2,240,27,sr:competitor:80535,"Kaji, Haruka",Japan,JPN
+WTA,women,2026,47,291,3,238,20,sr:competitor:87834,"Hon, Priscilla",Australia,AUS
+WTA,women,2026,47,292,3,238,29,sr:competitor:499098,"Ito, Aoi",Japan,JPN
+WTA,women,2026,47,293,-7,237,33,sr:competitor:262701,"Hodzic, Mina",Germany,DEU
+WTA,women,2026,47,294,3,237,27,sr:competitor:739667,"Pedone, Giorgia",Italy,ITA
+WTA,women,2026,47,295,3,236,23,sr:competitor:165006,"Kulikova, Anastasia",Finland,FIN
+WTA,women,2026,47,296,3,236,9,sr:competitor:731379,"Geerlings Martinez, Ariana",Spain,ESP
+WTA,women,2026,47,297,3,236,18,sr:competitor:1098357,"Egorova, Daria",Neutral,
+WTA,women,2026,47,298,3,234,23,sr:competitor:153860,"Trevisan, Martina",Italy,ITA
+WTA,women,2026,47,299,3,234,26,sr:competitor:217036,"Malygina, Elena",Estonia,EST
+WTA,women,2026,47,300,-4,232,25,sr:competitor:79443,"Cabrera, Lizette",Australia,AUS
+WTA,women,2026,47,301,6,232,22,sr:competitor:448123,"Broadus, Savannah",USA,USA
+WTA,women,2026,47,302,2,232,32,sr:competitor:933453,"Brockmann, Tessa Johanna",Germany,DEU
+WTA,women,2026,47,303,-21,231,21,sr:competitor:1027515,"Du Pree, Britt",Netherlands,NLD
+WTA,women,2026,47,304,1,230,18,sr:competitor:1020123,"Kovackova, Alena",Czechia,CZE
+WTA,women,2026,47,305,-15,229,28,sr:competitor:1045543,"Bennemann, Eva",Germany,DEU
+WTA,women,2026,47,306,2,225,22,sr:competitor:967949,"Adkar, Vaishnavi",India,IND
+WTA,women,2026,47,307,2,225,26,sr:competitor:222546,"Kuzmova, Katarina",Slovakia,SVK
+WTA,women,2026,47,308,2,224,22,sr:competitor:282597,"Park, Sohyun",Republic of Korea,KOR
+WTA,women,2026,47,309,2,223,27,sr:competitor:382796,"Collins, Kylie",USA,USA
+WTA,women,2026,47,310,-4,223,31,sr:competitor:833336,"Bertea, Elena Ruxandra",Romania,ROU
+WTA,women,2026,47,311,8,222,33,sr:competitor:258753,"Saigo, Rina",Japan,JPN
+WTA,women,2026,47,312,0,221,12,sr:competitor:100341,"Bolkvadze, Mariam",Georgia,GEO
+WTA,women,2026,47,313,0,220,15,sr:competitor:48318,"Martincova, Tereza",Czechia,CZE
+WTA,women,2026,47,314,0,220,17,sr:competitor:930033,"Encheva, Lidia",Bulgaria,BGR
+WTA,women,2026,47,315,0,219,13,sr:competitor:960043,"Zolotareva, Rada",Neutral,
+WTA,women,2026,47,316,1,218,33,sr:competitor:198092,"Morvayova, Viktoria",Slovakia,SVK
+WTA,women,2026,47,317,-1,217,15,sr:competitor:868599,"McDonald, Ella",Great Britain,GBR
+WTA,women,2026,47,318,2,217,21,sr:competitor:83607,"Capurro Taborda, Martina",Argentina,ARG
+WTA,women,2026,47,319,2,214,21,sr:competitor:858867,"Pace, Francesca",Italy,ITA
+WTA,women,2026,47,320,2,213,8,sr:competitor:1257515,"Sun, Xinran",China,CHN
+WTA,women,2026,47,321,15,213,24,sr:competitor:157150,"Boskovic, Lea",Croatia,HRV
+WTA,women,2026,47,322,42,211,17,sr:competitor:41404,"Watson, Heather",Great Britain,GBR
+WTA,women,2026,47,323,1,211,23,sr:competitor:343066,"Hosogi, Sakura",Japan,JPN
+WTA,women,2026,47,324,-48,209,30,sr:competitor:303814,"Tikhonova, Anastasia",Neutral,
+WTA,women,2026,47,325,3,208,22,sr:competitor:836764,"Lim, Jenny",France,FRA
+WTA,women,2026,47,326,-8,207,26,sr:competitor:505970,"Janicijevic, Selena",France,FRA
+WTA,women,2026,47,327,10,206,20,sr:competitor:340365,"Milovanovic, Elena",Serbia,SRB
+WTA,women,2026,47,328,1,205,11,sr:competitor:208125,"Liang, En-Shuo",Chinese Taipei,TPE
+WTA,women,2026,47,329,-6,205,25,sr:competitor:1020859,"Pawlikowska,  Zuzanna",Poland,POL
+WTA,women,2026,47,330,0,204,30,sr:competitor:46591,"Paquet, Chloe",France,FRA
+WTA,women,2026,47,331,0,204,19,sr:competitor:234398,"Nahimana, Sada",Burundi,BDI
+WTA,women,2026,47,332,0,204,29,sr:competitor:927551,"Koike, Ena",Japan,JPN
+WTA,women,2026,47,333,40,204,20,sr:competitor:723099,"Ewald, Weronika",Poland,POL
+WTA,women,2026,47,334,-7,203,29,sr:competitor:103375,"Serban, Raluca Georgiana",Cyprus,CYP
+WTA,women,2026,47,335,37,202,29,sr:competitor:155556,"Bulgaru, Miriam Bianca",Romania,ROU
+WTA,women,2026,47,336,5,201,20,sr:competitor:435794,"Zolotareva, Anastasia",Neutral,
+WTA,women,2026,47,337,-4,201,12,sr:competitor:843378,"Perez Alarcon, Lucciana",Peru,PER
+WTA,women,2026,47,338,-3,200,24,sr:competitor:258719,"Teixido Garcia, Aran",Spain,ESP
+WTA,women,2026,47,339,-14,200,25,sr:competitor:44417,"Bosio, Victoria",Argentina,ARG
+WTA,women,2026,47,340,-1,199,29,sr:competitor:245711,"Leonard, Manon",France,FRA
+WTA,women,2026,47,341,-3,198,26,sr:competitor:875507,"Voloshchuk, Angelina",Portugal,PRT
+WTA,women,2026,47,342,0,195,17,sr:competitor:812476,"Zaytseva, Ksenia",Neutral,
+WTA,women,2026,47,343,-9,193,26,sr:competitor:345070,"Arseneault, Ariana",Canada,CAN
+WTA,women,2026,47,344,0,193,21,sr:competitor:524486,"Monnot, Amandine",France,FRA
+WTA,women,2026,47,345,0,192,25,sr:competitor:315567,"Mazzola, Alessandra",Italy,ITA
+WTA,women,2026,47,346,6,191,24,sr:competitor:738983,"Johnson, Sofia",Great Britain,GBR
+WTA,women,2026,47,347,-1,191,15,sr:competitor:1115519,"Vujovic, Luna",Serbia,SRB
+WTA,women,2026,47,348,0,188,29,sr:competitor:59662,"Sanchez, Ana Sofia",Mexico,MEX
+WTA,women,2026,47,349,0,188,27,sr:competitor:829748,"Kotliar, Yelyzaveta",Ukraine,UKR
+WTA,women,2026,47,350,3,187,26,sr:competitor:447703,"Sato, Hikaru",Japan,JPN
+WTA,women,2026,47,351,-11,186,21,sr:competitor:319349,"Rouvroy, Margaux",France,FRA
+WTA,women,2026,47,352,-9,186,24,sr:competitor:55793,"Chiesa, Deborah",Italy,ITA
+WTA,women,2026,47,353,1,185,23,sr:competitor:82307,"Von Deichmann, Kathinka",Liechtenstein,LIE
+WTA,women,2026,47,354,1,185,19,sr:competitor:979575,"Stojsavljevic, Mika",Great Britain,GBR
+WTA,women,2026,47,355,11,185,19,sr:competitor:71284,"Bains, Naiktha",Great Britain,GBR
+WTA,women,2026,47,356,0,185,23,sr:competitor:45605,"CE, Gabriela",Brazil,BRA
+WTA,women,2026,47,357,0,185,23,sr:competitor:965307,"Golovina, Maria",Neutral,
+WTA,women,2026,47,358,0,184,22,sr:competitor:898045,"Sidorova, Kristiana",Neutral,
+WTA,women,2026,47,359,20,183,18,sr:competitor:955421,"Stusek, Julia",Germany,DEU
+WTA,women,2026,47,360,0,181,30,sr:competitor:410299,"Cherubini, Diletta",Italy,ITA
+WTA,women,2026,47,361,14,180,19,sr:competitor:1020177,"Huang, Yujia",China,CHN
+WTA,women,2026,47,362,-1,179,26,sr:competitor:96237,"Pieri, Jessica",Italy,ITA
+WTA,women,2026,47,363,0,179,25,sr:competitor:43502,"Lu, Jia-Jing",China,CHN
+WTA,women,2026,47,364,1,178,23,sr:competitor:505974,"Nguyen Tan, Lucie",France,FRA
+WTA,women,2026,47,365,-6,177,19,sr:competitor:1115539,"Panshina, Varvara",Neutral,
+WTA,women,2026,47,366,-16,177,24,sr:competitor:418447,"Sieg, Madison",USA,USA
+WTA,women,2026,47,367,-41,177,21,sr:competitor:420829,"Inoue, Hina",USA,USA
+WTA,women,2026,47,368,-1,176,26,sr:competitor:299270,"Martinez Cirez, Carlota",Spain,ESP
+WTA,women,2026,47,369,-1,175,22,sr:competitor:913665,"Steiner, Valentina",Germany,DEU
+WTA,women,2026,47,370,-1,175,15,sr:competitor:1027517,"Ebeling Koning, Loes",Netherlands,NLD
+WTA,women,2026,47,371,-20,173,21,sr:competitor:450331,"Granwehr, Alina",Switzerland,CHE
+WTA,women,2026,47,372,11,172,23,sr:competitor:104929,"Tona, Miriana",Italy,ITA
+WTA,women,2026,47,373,-2,171,22,sr:competitor:67743,"Gjorcheska, Lina",North Macedonia,MKD
+WTA,women,2026,47,374,4,171,19,sr:competitor:499486,"Scott, Katrina",USA,USA
+WTA,women,2026,47,375,-5,168,23,sr:competitor:473937,"Reasco Gonzalez, Mell Elizabeth",Ecuador,ECU
+WTA,women,2026,47,376,0,166,26,sr:competitor:409673,"Zelnickova, Radka",Slovakia,SVK
+WTA,women,2026,47,377,10,165,28,sr:competitor:52533,"Jakupovic, Dalila",Slovenia,SVN
+WTA,women,2026,47,378,3,164,20,sr:competitor:189384,"Kulambayeva, Zhibek",Kazakhstan,KAZ
+WTA,women,2026,47,379,-5,164,22,sr:competitor:136302,"Spiteri, Dalila",Italy,ITA
+WTA,women,2026,47,380,-3,164,24,sr:competitor:217056,"Cortez Llorca, Lucia",Spain,ESP
+WTA,women,2026,47,381,1,164,26,sr:competitor:194474,"Yang, Yidi",China,CHN
+WTA,women,2026,47,382,2,160,16,sr:competitor:202363,"Sun, Lulu",New Zealand,NZL
+WTA,women,2026,47,383,2,160,14,sr:competitor:41374,"Tomova, Viktoriya",Bulgaria,BGR
+WTA,women,2026,47,384,2,160,22,sr:competitor:517274,"Rajecki, Amelia",Great Britain,GBR
+WTA,women,2026,47,385,-23,158,16,sr:competitor:433758,"Wei, Sijia",China,CHN
+WTA,women,2026,47,386,4,157,26,sr:competitor:448093,"Martynov, Diana",France,FRA
+WTA,women,2026,47,387,5,157,24,sr:competitor:201105,"Yuan, Chengyiyi",China,CHN
+WTA,women,2026,47,388,5,157,17,sr:competitor:513582,"Chaudhari, Vaidehi",India,IND
+WTA,women,2026,47,389,10,157,22,sr:competitor:310984,"Sato, Naho",Japan,JPN
+WTA,women,2026,47,390,13,156,13,sr:competitor:1130223,"Zoldakova, Denisa",Czechia,CZE
+WTA,women,2026,47,391,-44,156,18,sr:competitor:1009901,"Nilsson, Lea",Sweden,SWE
+WTA,women,2026,47,392,-12,155,21,sr:competitor:831284,"Kuramochi, Miho",Japan,JPN
+WTA,women,2026,47,393,18,155,18,sr:competitor:664357,"Mushika, Mio",Japan,JPN
+WTA,women,2026,47,394,0,155,19,sr:competitor:686597,"Pavlova, Kira",Neutral,
+WTA,women,2026,47,395,0,154,3,sr:competitor:211262,"Danilovic, Olga",Serbia,SRB
+WTA,women,2026,47,396,0,154,26,sr:competitor:904159,"Mi, Lan",China,CHN
+WTA,women,2026,47,397,1,154,16,sr:competitor:420819,"Shaikh, Hibah",USA,USA
+WTA,women,2026,47,398,-7,153,25,sr:competitor:213144,"Lemaitre, Tiphanie",France,FRA
+WTA,women,2026,47,399,1,153,14,sr:competitor:213140,"Lene, Emma",France,FRA
+WTA,women,2026,47,400,1,152,31,sr:competitor:51943,"Strakhova, Valeriya",Ukraine,UKR
+WTA,women,2026,47,401,1,152,26,sr:competitor:79315,"Colmegna, Martina",Italy,ITA
+WTA,women,2026,47,402,-5,150,9,sr:competitor:915635,"Zhiyenbayeva, Sonja",Kazakhstan,KAZ
+WTA,women,2026,47,403,7,149,20,sr:competitor:67659,"Primorac Pavicic, Iva",Croatia,HRV
+WTA,women,2026,47,404,0,149,25,sr:competitor:355958,"Visscher, Stephanie Judith",Netherlands,NLD
+WTA,women,2026,47,405,0,148,24,sr:competitor:722877,"Ciric-Bagaric, Lucija",Croatia,HRV
+WTA,women,2026,47,406,1,147,25,sr:competitor:47876,"Shinikova, Isabella",Bulgaria,BGR
+WTA,women,2026,47,407,2,146,26,sr:competitor:1069896,"Wang, Jiayi",China,CHN
+WTA,women,2026,47,408,5,146,22,sr:competitor:459317,"Nugroho, Priska Madelyn",Indonesia,IDN
+WTA,women,2026,47,409,3,146,16,sr:competitor:731441,"Vargova, Nina",Slovakia,SVK
+WTA,women,2026,47,410,7,145,21,sr:competitor:406401,"Ivanov, Valentina",New Zealand,NZL
+WTA,women,2026,47,411,-5,144,17,sr:competitor:223862,"Laboutkova, Aneta",Czechia,CZE
+WTA,women,2026,47,412,12,144,26,sr:competitor:390638,"Mair, Laura",Italy,ITA
+WTA,women,2026,47,413,2,144,20,sr:competitor:673521,"Vogt, Marie",Germany,DEU
+WTA,women,2026,47,414,2,144,11,sr:competitor:431743,"Okutoyi, Angella",Kenya,KEN
+WTA,women,2026,47,415,4,142,14,sr:competitor:82609,"Grammatikopoulou, Valentini",Greece,GRC
+WTA,women,2026,47,416,6,141,29,sr:competitor:378144,"Karatancheva, Lia",Bulgaria,BGR
+WTA,women,2026,47,417,6,141,24,sr:competitor:52388,"Hesse, Amandine",France,FRA
+WTA,women,2026,47,418,7,141,26,sr:competitor:831262,"Yamalapalli, Sahaja",India,IND
+WTA,women,2026,47,419,8,140,18,sr:competitor:59702,"Haddad Maia, Beatriz",Brazil,BRA
+WTA,women,2026,47,420,8,140,27,sr:competitor:171026,"Tsygourova, Katerina",Switzerland,CHE
+WTA,women,2026,47,421,8,140,27,sr:competitor:315623,"Wang, Jiaqi",China,CHN
+WTA,women,2026,47,422,8,140,19,sr:competitor:948061,"Gonzalez Daniele, Justina Maria",Argentina,ARG
+WTA,women,2026,47,423,9,139,21,sr:competitor:148276,"Zheng, Wushuang",China,CHN
+WTA,women,2026,47,424,-16,139,21,sr:competitor:918555,"Zeltina, Beatrise",Latvia,LVA
+WTA,women,2026,47,425,12,138,24,sr:competitor:869687,"Matsuda, Rinko",Japan,JPN
+WTA,women,2026,47,426,0,138,11,sr:competitor:1017339,"Esquiva Banuls, Charo",Spain,ESP
+WTA,women,2026,47,427,4,138,8,sr:competitor:450987,"Guzman, Dana",Peru,PER
+WTA,women,2026,47,428,-7,136,27,sr:competitor:135192,"Rame, Alice",France,FRA
+WTA,women,2026,47,429,5,136,26,sr:competitor:168526,"Appleton, Emily",Great Britain,GBR
+WTA,women,2026,47,430,5,136,22,sr:competitor:875503,"Vrancken Peeters, Anouck",Netherlands,NLD
+WTA,women,2026,47,431,5,136,19,sr:competitor:445341,"Gallardo Guevara, Carmen",Spain,ESP
+WTA,women,2026,47,432,-12,135,22,sr:competitor:120722,"Alhussein Abdel Aziz, Lamis",Egypt,EGY
+WTA,women,2026,47,433,-45,134,11,sr:competitor:132414,"Guerrero Alvarez, Eva",Spain,ESP
+WTA,women,2026,47,434,7,133,5,sr:competitor:595220,"Stakusic, Marina",Canada,CAN
+WTA,women,2026,47,435,-21,133,15,sr:competitor:289093,"Belgraver, Julie",France,FRA
+WTA,women,2026,47,436,6,133,26,sr:competitor:50643,"Lukas, Tena",Croatia,HRV
+WTA,women,2026,47,437,6,131,16,sr:competitor:1203225,"Milovanova, Victoria",Neutral,
+WTA,women,2026,47,438,6,131,17,sr:competitor:938663,"Nishimura, Kayo",Japan,JPN
+WTA,women,2026,47,439,1,130,19,sr:competitor:254553,"Nagy, Adrienn",Hungary,HUN
+WTA,women,2026,47,440,160,130,18,sr:competitor:1008089,"Sawashiro, Kanon",Japan,JPN
+WTA,women,2026,47,441,5,130,10,sr:competitor:476834,"Shcherbinina, Alina",Neutral,
+WTA,women,2026,47,442,5,130,14,sr:competitor:234216,"Kubareva, Anna",Neutral,
+WTA,women,2026,47,443,-54,129,16,sr:competitor:183957,"Kobori, Momoko",Japan,JPN
+WTA,women,2026,47,444,-26,129,21,sr:competitor:111149,"Samir, Sandra",Egypt,EGY
+WTA,women,2026,47,445,3,128,22,sr:competitor:352784,"Adeshina, Esther",Great Britain,GBR
+WTA,women,2026,47,446,3,128,9,sr:competitor:1222991,"Kovackova, Jana",Czechia,CZE
+WTA,women,2026,47,447,3,127,5,sr:competitor:35838,"Begu, Irina-Camelia",Romania,ROU
+WTA,women,2026,47,448,-9,127,21,sr:competitor:20354,"Buyukakcay, Cagla",Turkiye,TUR
+WTA,women,2026,47,449,2,127,24,sr:competitor:255031,"Niemeier, Jule",Germany,DEU
+WTA,women,2026,47,450,-5,127,40,sr:competitor:325837,"Sakellaridi, Sapfo",Greece,GRC
+WTA,women,2026,47,451,29,127,17,sr:competitor:371556,"Jeong, Boyoung",Republic of Korea,KOR
+WTA,women,2026,47,452,0,127,19,sr:competitor:947289,"Goto, Reina",Japan,JPN
+WTA,women,2026,47,453,5,126,16,sr:competitor:476218,"Kawaguchi, Natsumi",Japan,JPN
+WTA,women,2026,47,454,-1,125,17,sr:competitor:807358,"Rakotomanga Rajaonah, Tiantsoa Sarah",France,FRA
+WTA,women,2026,47,455,-1,125,21,sr:competitor:720627,"Senic, Natalija",Serbia,SRB
+WTA,women,2026,47,456,-1,124,9,sr:competitor:205633,"Juvan, Kaja",Slovenia,SVN
+WTA,women,2026,47,457,-1,124,24,sr:competitor:652052,"Popa, Maria Sara",Romania,ROU
+WTA,women,2026,47,458,1,124,15,sr:competitor:565020,"Maklakova, Ekaterina",Neutral,
+WTA,women,2026,47,459,41,123,21,sr:competitor:853745,"Vergara Rivera, Antonia",Chile,CHL
+WTA,women,2026,47,460,2,123,20,sr:competitor:586741,"Berecoechea, Nahia",France,FRA
+WTA,women,2026,47,461,3,123,19,sr:competitor:265671,"Maquet, Margaux",Belgium,BEL
+WTA,women,2026,47,462,3,122,7,sr:competitor:1116289,"Leme Da Silva, Nauhany Vitoria",Brazil,BRA
+WTA,women,2026,47,463,4,122,23,sr:competitor:1056037,"Serban, Isabella Maria",Italy,ITA
+WTA,women,2026,47,464,4,122,22,sr:competitor:226170,"Urrutia, Maria Florencia",Argentina,ARG
+WTA,women,2026,47,465,6,120,16,sr:competitor:970397,"Perelygina, Ekaterina",Austria,AUT
+WTA,women,2026,47,466,-3,120,14,sr:competitor:827398,"Stankovic, Anja",Serbia,SRB
+WTA,women,2026,47,467,6,119,16,sr:competitor:324677,"Fullana, Luiza",Brazil,BRA
+WTA,women,2026,47,468,1,119,20,sr:competitor:507916,"Zanolini , Camilla",Italy,ITA
+WTA,women,2026,47,469,5,119,19,sr:competitor:567285,"Hietaranta, Laura",Finland,FIN
+WTA,women,2026,47,470,-9,118,18,sr:competitor:403329,"Toth, Amarissa Kiara",Hungary,HUN
+WTA,women,2026,47,471,4,118,16,sr:competitor:1194623,"Kroitor, Kristina",Neutral,
+WTA,women,2026,47,472,-15,118,11,sr:competitor:880229,"Cayetano, Eryn",USA,USA
+WTA,women,2026,47,473,3,117,13,sr:competitor:172590,"Burrage, Jodie",Great Britain,GBR
+WTA,women,2026,47,474,-4,117,17,sr:competitor:942017,"Kokkinis, Tahlia",Australia,AUS
+WTA,women,2026,47,475,2,117,11,sr:competitor:1052261,"Penickova, Annika",USA,USA
+WTA,women,2026,47,476,-38,116,26,sr:competitor:448121,"Rogers, Anna",USA,USA
+WTA,women,2026,47,477,-5,116,24,sr:competitor:898261,"Yesypchuk, Daria",Ukraine,UKR
+WTA,women,2026,47,478,48,115,9,sr:competitor:286435,"Gadecki, Olivia",Australia,AUS
+WTA,women,2026,47,479,-19,115,15,sr:competitor:1018131,"Frodin, Thea",USA,USA
+WTA,women,2026,47,480,24,115,11,sr:competitor:58053,"Sharma, Astra",Australia,AUS
+WTA,women,2026,47,481,0,115,20,sr:competitor:950977,"Roura Llaverias, Ruth",Spain,ESP
+WTA,women,2026,47,482,-4,115,17,sr:competitor:221618,"Sziedat, Franziska",Germany,DEU
+WTA,women,2026,47,483,-1,115,18,sr:competitor:245703,"Mettraux, Marie",Switzerland,CHE
+WTA,women,2026,47,484,15,115,21,sr:competitor:420707,"Babel, Oceane",France,FRA
+WTA,women,2026,47,485,-2,115,14,sr:competitor:631478,"Radovanovic, Nina",France,FRA
+WTA,women,2026,47,486,1,114,15,sr:competitor:138452,"Shibahara, Ena",Japan,JPN
+WTA,women,2026,47,487,-3,114,19,sr:competitor:95853,"Pieri, Tatiana",Italy,ITA
+WTA,women,2026,47,488,-3,114,14,sr:competitor:768470,"Turini, Viola",Italy,ITA
+WTA,women,2026,47,489,-56,114,19,sr:competitor:226092,"Shimizu, Eri",Japan,JPN
+WTA,women,2026,47,490,6,114,20,sr:competitor:588067,"Lovric, Pia",Slovenia,SVN
+WTA,women,2026,47,491,-3,113,20,sr:competitor:967809,"Subasic, Alana",Australia,AUS
+WTA,women,2026,47,492,-3,113,9,sr:competitor:1109269,"Rajeshwaran Revathi, Maaya",India,IND
+WTA,women,2026,47,493,-2,112,23,sr:competitor:143146,"Smith, Alana",USA,USA
+WTA,women,2026,47,494,-28,112,15,sr:competitor:762722,"Garcia Cid, Maria",Spain,ESP
+WTA,women,2026,47,495,-9,112,21,sr:competitor:129430,"Cervino Ruiz, Celia",Spain,ESP
+WTA,women,2026,47,496,-3,112,8,sr:competitor:833546,"Honer, Amelia",USA,USA
+WTA,women,2026,47,497,-3,111,21,sr:competitor:812502,"Xu, Mingge",Great Britain,GBR
+WTA,women,2026,47,498,-19,111,23,sr:competitor:509086,"Glushkova, Denislava",Bulgaria,BGR
+WTA,women,2026,47,499,-1,110,27,sr:competitor:517006,"Martinez Vaquero, Maria",Spain,ESP
+WTA,women,2026,47,500,1,109,17,sr:competitor:352808,"Chanta, Anchisa",Thailand,THA
